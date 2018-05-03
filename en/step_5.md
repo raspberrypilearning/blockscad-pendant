@@ -2,7 +2,7 @@
 
 Now let’s add a border around the edge of the hoop design. 
 
-	![screenshot](images/pendant-border-show.png) 
+![screenshot](images/pendant-border-show.png) 
 
 + Create a centred hoop that touches the edges of the inner circle. You can either work out what the radius of the circle needs to be using maths, or you can just create a circle and change the radius until it works. Either approach is fine!
 
@@ -24,7 +24,7 @@ Adjust the size of the cylinders until the hoop just touches the outer edges of 
 --- hint ---
 A radius of about 20mm is about right. (Did you notice that the introduction to this project says that the finished pendant will be 40mm in diameter!)
 
-	![screenshot](images/pendant-border.png)
+![screenshot](images/pendant-border.png)
 	
 You could have used maths to work out the diameter. 
 
@@ -35,5 +35,5 @@ This removes a section from the radius we need. This section is actually on the 
 Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need. 
 
 --- /hint ---
---- hints --- 
+--- /hints --- 
 

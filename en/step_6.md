@@ -2,7 +2,7 @@
 
 Now you just need a small hanging hoop. 
 
-	![screenshot](images/pendant-hang-show.png) 
+![screenshot](images/pendant-hang-show.png) 
 	
 + Now add a small hanging hoop that you can put a thread through. 
 
@@ -14,7 +14,7 @@ Now you just need a small hanging hoop.
 
 + Let's `rotate` the inner hoops so that the pendant is centred over one of the gaps between them. 
 
-	![screenshot](images/pendant-hoop-rotate.png) 
+	![screenshot](images/pendant-hang-rotate.png) 
 	
 	Designing a 3D model combines technical skills and design skills. 
 	
