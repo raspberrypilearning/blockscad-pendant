@@ -2,10 +2,21 @@ title: blockscad-pendant
 hero_image: images/banner.png
 description: blockscad-pendant description
 version: 4
+duration: 2 # possible values: 1, 2 or 3
+theme: green
 listed: false
 copyedit: false
 last_tested: "2018-05-03"
+curriculum: creator, design-1, programming-1, phys-comp-0, manufacture-1, community-0
+interests: "making"
+technologies: "blockscad, 3d-printing"
+site_areas:
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Step title
+  - title: Create a hoop
+  - title: More hoops
+  - title: Add a border
+  - title: Add a hanging hoop
+  - title: Challenge: Change it!
+  - title: 3D Printing and assembly
