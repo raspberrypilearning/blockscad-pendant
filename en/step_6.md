@@ -1,8 +1,8 @@
 ## Add a hanging hoop
 
-Now you just need a small hanging hoop. 
+Now you just need a small hanging hoop that you can thread a cord through to made a necklace. 
 
-![screenshot](images/pendant-hang-show.png) 
+Tip: This design adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or change you can adapt the design to create a bigger hanging hoop. 
 	
 + Now add a small hanging hoop that you can put a thread through. 
 
