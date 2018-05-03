@@ -18,4 +18,5 @@ Tip: This design adds a small hoop that can be used with elastic necklace thread
 	
 	Designing a 3D model combines technical skills and design skills. 
 	
+
 	
