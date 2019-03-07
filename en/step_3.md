@@ -4,7 +4,7 @@ The design uses 6 interlocking hoops in the centre  and  a larger hoop around th
 
 First you're going to make a single inner hoop. 
 
-+ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/).
++ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
 You can drag and drop blocks to write code to create 3D objects. 
 
