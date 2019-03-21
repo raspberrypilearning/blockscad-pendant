@@ -8,7 +8,7 @@ If you have access to a 3D printer then you can print your pendant. The resultin
 
 ### What you will make
 
-The finished keyring looks like this:
+The finished pendant looks like this:
 
 ![screenshot](images/pendant-finished.png) 
 
