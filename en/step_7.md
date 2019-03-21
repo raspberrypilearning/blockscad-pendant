@@ -1,19 +1,21 @@
-## Challenge: Change it!
+## 3D Printing and Assembly
 
---- challenge ---
-The design is influenced by the 'flower of life' pattern. Why not research the flower of life and see if you can create a design based on the 'seed of life' pattern. 
+BlocksCAD 3D can export an `.STL` file for 3D printing. 
 
-![screenshot](images/pendant-seed-of-life.png) 
-
---- /challenge ---
-
---- challenge ---
-Experiment with changing values in your pendant. Try changing the numbers of hoops or the amount that you translate the inner hoops by. 
-
-What if you use cuboids (cubes) instead of cylinders to create a pattern?
-Tip: You’ll need to centre the cuboids as they are defined from a corner, not the centre. 
-
-![screenshot](images/pendant-challenge.png) 
-
---- /challenge ---
-
+--- task ---
+Render your model and then click `Generate STL`. Remember where you save the file. 
+--- /task ---
+--- task ---
+Print your pendant using a filament colour of your choice.
+--- /task ---
+--- task ---
+Very carefully remove the 3D print from the print bed. The pendant is thin so it's quite delicate. 
+	
+![screenshot](images/pendant-printed.png) 
+--- /task ---
+--- task ---		
+You may need to tidy up the print by removing any small strands of filament especially from the hanging hoop. 
+--- /task ---
+--- task ---		
+Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace then you can adjust the design to have a larger hanging loop.
+--- /task ---

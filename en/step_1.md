@@ -18,21 +18,39 @@ The pendant is 40mm across plus the hoop for hanging. It’s 2mm deep so it will
 
 Don’t worry if you don’t like this design. After this project you’ll be able to code your own design and create a custom pendant. 
 
+--- collapse ---
+---
+title: What you will need
+---
+### Hardware
 
-### What you will learn
++ A 3D printer and filament in a colour of your choice. 
++ A necklace or cord to hang the pendant on so that you can wear it or give it as a gift.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+### Software
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ This project can be completed in a web browser using BlocksCAD [https://www.blockscad3d.com/](https://www.blockscad3d.com/){:target="_blank"}
 
-If you 3D print the model then you will also cover:
+--- /collapse ---
 
-+ [Use manufacturing techniques and tools to create a completed product](https://curriculum.raspberrypi.org/manufacture/developer/){:target="_blank"}
+--- collapse ---
+---
+title: What you will learn
+---
 
-Younger makers will need assistance or supervision to use a 3D printer. 
++ Using count loops to create geometric patterns
++ Using difference blocks to create hoops from cylinders
 
-### Additional information for educators
+--- /collapse ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockcad-coder-badge/print){:target="_blank"}.
+--- collapse ---
+---
+title: Additional information for educators
+---
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+
+You can download the finished project at:
+[http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+
+--- /collapse ---

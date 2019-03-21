@@ -1,35 +1,40 @@
-## More hoops
+## Add a border
 
-Now let’s add more hoops. The design uses 6 intersecting hoops. Each hoop is moved away from the centre and rotated a different amount. 
+Now let’s add a border around the edge of the hoop design. 
 
-+ If you look at the design, there's no hoop in the centre. The hoops are all moved out from the centre.
+![screenshot](images/pendant-border-show.png) 
 
-	Let's `translate` (move) the first hoop into position. 
-	
-	![screenshot](images/pendant-translate.png) 
-	
-	Now the hoop is a little off centre. 
-	
-+ Now we need multiple copies of this hoop, rotated around the centre.  First let's create 3 equally space hoops using a `count` loop and `rotate`. 
+--- task ---
+Create a centred hoop that touches the edges of the inner circle. You can either work out what the radius of the circle needs to be using maths, or you can just create a circle and change the radius until it works. Either approach is fine!
 
-	![screenshot](images/pendant-3-hoops.png) 
+Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
 	
-	The count goes from 1 to 3 and sets the `i` variable. Each hoop is rotated by `i` times 120 to space the hoops equally around the 360 degrees of a circle. 
-	
-	Look at the code and make sure you understand how it works. 
-	
-+ The finished design has 6 hoops rather than 3. Change your code so that it creates 6 equally spaced hoops.
+![screenshot](images/pendant-union.png) 
 
---- hints ---
+--- hints --- 
 --- hint ---
-You'll need to change the count loop so that it runs 6 times instead of 3. And the 6 hoops will need to be equally spaced around 360. 
+First try making a hoop using the cylinder and difference blocks. 
+
+The 6 hoops have a radius of 12mm so the border cylinder will be bigger than that. You could try 24mm. 
+
+The radius of the second cylinder in the difference block will need to be 1mm less than the radius of the first cylinder to leave a hoop. 
 --- /hint ---
 --- hint ---
-need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 60 = 60):
-
-Your code should look like this:
-	![screenshot](images/pendant-6-hoops.png) 
+Adjust the size of the cylinders until the hoop just touches the outer edges of the 6 hoops. 
 --- /hint ---
---- /hints ---
+--- hint ---
+A radius of about 20mm is about right. (Did you notice that the introduction to this project says that the finished pendant will be 40mm in diameter!)
+
+![screenshot](images/pendant-border.png)
 	
-	
+You could have used maths to work out the diameter. 
+
+The diameter of the inner circles is 24mm. If the circles met at the centre then the border would need to have a radius of 24mm. But the inner circles overlap because they are translated 5mm in the x and y directions. 
+
+This removes a section from the radius we need. This section is actually on the arc 5mm from the origin so we know we need to remove 5mm from 24mm to give us 19mm. This means that the inner radius of the border should be 19mm. 
+
+Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need. 
+
+--- /hint ---
+--- /hints --- 
+--- /task ---

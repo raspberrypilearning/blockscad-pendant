@@ -1,27 +1,42 @@
-## Create a hoop
+## More hoops
 
-The design uses 6 interlocking hoops in the centre  and  a larger hoop around the outside. The pendant is 4cm across plus the hoop for hanging. It’s 2mm deep so it will 3D print quite quickly.
+Now let’s add more hoops. The design uses 6 intersecting hoops. Each hoop is moved away from the centre and rotated a different amount. 
 
-First you're going to make a single inner hoop. 
+--- task ---
+If you look at the design, there's no hoop in the centre. The hoops are all moved out from the centre.
 
-+ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
-
-You can drag and drop blocks to write code to create 3D objects. 
-
-+ Create a cylinder with a radius of 12mm. 
-
-	![screenshot](images/pendant-cylinder.png) 
+Let's `translate`{:class="blockscadtransforms"} (move) the first hoop into position. 
 	
-	Cylinders are automatically centred along the x and y axes. Choosing 'not centred' means that the pendant will sit on the 'surface' which is what we want. 
+![screenshot](images/pendant-translate.png) 
 	
-	Click 'Render' after each change to your code to see the results. 
-	
-+ Now use `difference` to remove a smaller cylinder from the centre to just leave a hoop around the edge:
+Now the hoop is a little off centre. 
 
-	![screenshot](images/pendant-hoop.png) 
-	
-	If you like, you can change the colour used in the viewer. Remember this won't affect the colour of your 3D print, that will depend on the filament you use. 
-	
+--- /task ---
+--- task ---
+Now we need multiple copies of this hoop, rotated around the centre.  First let's create 3 equally space hoops using a `count`{:class="blockscadloops"} loop and `rotate`{:class="blockscadtransforms"}. 
 
+	![screenshot](images/pendant-3-hoops.png) 
 	
+	The count goes from 1 to 3 and sets the `i` variable. Each hoop is rotated by `i` times 120 to space the hoops equally around the 360 degrees of a circle. 
+	
+	Look at the code and make sure you understand how it works. 
+
+--- /task ---
+--- task ---
+The finished design has 6 hoops rather than 3. Change your code so that it creates 6 equally spaced hoops.
+
+--- hints ---
+--- hint ---
+You'll need to change the `count`{:class="blockscadloops"} loop so that it runs 6 times instead of 3. And the 6 hoops will need to be equally spaced around 360. 
+--- /hint ---
+--- hint ---
+need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 60 = 60):
+
+--- /task ---
+--- task ---
+Your code should look like this:
+![screenshot](images/pendant-6-hoops.png) 
+--- /hint ---
+--- /hints ---
+--- /task ---	
 	
