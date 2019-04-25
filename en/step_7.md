@@ -12,6 +12,7 @@ Print your pendant using a filament colour of your choice.
 Very carefully remove the 3D print from the print bed. The pendant is thin so it's quite delicate. 
 	
 ![screenshot](images/pendant-printed.png) 
+
 --- /task ---
 --- task ---		
 You may need to tidy up the print by removing any small strands of filament especially from the hanging hoop. 
