@@ -30,10 +30,10 @@ The finished design has 6 hoops rather than 3. Change your code so that it creat
 You'll need to change the `count`{:class="blockscadloops"} loop so that it runs 6 times instead of 3. And the 6 hoops will need to be equally spaced around 360. 
 --- /hint ---
 --- hint ---
-need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 60 = 60):
+You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 60 = 60):
 
---- /task ---
---- task ---
+--- /hint ---
+--- hint ---
 Your code should look like this:
 ![screenshot](images/pendant-6-hoops.png) 
 --- /hint ---
