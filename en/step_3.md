@@ -1,33 +1,32 @@
-## More hoops
+## Add more hoops
 
-Now let’s add more hoops. The design uses 6 intersecting hoops. Each hoop is moved away from the centre and rotated a different amount. 
+Now, add more hoops. The design uses six intersecting hoops. Each hoop is moved away from the centre and rotated a different amount. 
 
 --- task ---
-If you look at the design, there's no hoop in the centre. The hoops are all moved out from the centre.
+If you look at the design, there is no hoop in the centre. The hoops are all moved out from the centre.
 
-Let's `translate`{:class="blockscadtransforms"} (move) the first hoop into position. 
+First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position. 
 	
 ![screenshot](images/pendant-translate.png) 
 	
-Now the hoop is a little off centre. 
+Now, the hoop is a little off-centre. 
 
 --- /task ---
 --- task ---
-Now we need multiple copies of this hoop, rotated around the centre.  First let's create 3 equally space hoops using a `count`{:class="blockscadloops"} loop and `rotate`{:class="blockscadtransforms"}. 
+You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops. Add a `count`{:class="blockscadloops"} loop and `rotate`{:class="blockscadtransforms"} block. The count goes from 1 to 3 and sets the `i` variable. Each hoop is rotated by `i` times 120 to space the hoops equally around the 360 degrees of a circle. 
 
 ![screenshot](images/pendant-3-hoops.png) 
-	
-The count goes from 1 to 3 and sets the `i` variable. Each hoop is rotated by `i` times 120 to space the hoops equally around the 360 degrees of a circle. 
+
 	
 Look at the code and make sure you understand how it works. 
 
 --- /task ---
 --- task ---
-The finished design has 6 hoops rather than 3. Change your code so that it creates 6 equally spaced hoops.
+The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
 
 --- hints ---
 --- hint ---
-You'll need to change the `count`{:class="blockscadloops"} loop so that it runs 6 times instead of 3. And the 6 hoops will need to be equally spaced around 360. 
+Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees. 
 --- /hint ---
 --- hint ---
 You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 60 = 60):
