@@ -1,16 +1,16 @@
-## Challenge: Change it!
+## Challenge: Change the pendant!
 
 --- challenge ---
-The design is influenced by the 'flower of life' pattern. Why not research the flower of life and see if you can create a design based on the 'seed of life' pattern. 
+The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern. 
 
 ![screenshot](images/pendant-seed-of-life.png) 
 
 --- /challenge ---
 
 --- challenge ---
-Experiment with changing values in your pendant. Try changing the numbers of hoops or the amount that you translate the inner hoops by. 
+Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation. 
 
-What if you use cuboids (cubes) instead of cylinders to create a pattern?
+You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
 
 ![screenshot](images/pendant-challenge.png) 
 
