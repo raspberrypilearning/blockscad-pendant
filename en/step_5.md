@@ -1,25 +1,24 @@
 ## Add a hanging hoop
 
-Now you just need a small hanging hoop that you can thread a cord through to made a necklace. 
+Now, add a small hanging hoop that you can thread a cord through to made a necklace. 
 
-Tip: This design adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or change you can adapt the design to create a bigger hanging hoop. 
+Tip: This design adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the design to create a bigger hanging hoop. 
 	
 --- task ---
-Now add a small hanging hoop that you can put a thread through. 
+Add a small hanging hoop that you can put a thread through. 
 
-You’ll need to click the `[+]` on the union block to add another plus section. 
+Click the `[+]` on the union block to add another section. 
 	
 ![screenshot](images/pendant-hang.png) 
 	
-Hmm the position of the hoop isn't very visually pleasing.  
+At the moment, the position of the hanging hoop isn't very visually pleasing.  
 
 --- /task ---
 --- task ---
-Let's `rotate`{:class="blockscadtransforms"} the inner hoops so that the pendant is centred over one of the gaps between them. 
+Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them. 
 
 ![screenshot](images/pendant-hang-rotate.png) 
 	
-Designing a 3D model combines technical skills and design skills. 
 --- /task ---	
 
 
