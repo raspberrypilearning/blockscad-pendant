@@ -15,7 +15,7 @@ Now the hoop is a little off-centre.
 --- task ---
 You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
 
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `transform` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
+Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
 
 ![screenshot](images/pendant-3-hoops.png) 
 
