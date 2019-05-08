@@ -1,4 +1,4 @@
-title: 3D printable pendant
+title: 3D pendant
 hero_image: images/banner.png
 description: blockscad-pendant description
 version: 4
@@ -14,5 +14,5 @@ steps:
   - title: Add more hoops
   - title: Add a border
   - title: Add a hanging hoop
-  - title: "Challenge: Change the pendant!"
+  - title: "Challenge: Change the pendant"
   - title: 3D print and assemble your pendant
