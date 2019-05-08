@@ -1,4 +1,4 @@
-## Challenge: Change the pendant!
+## Challenge: Change the pendant
 
 --- challenge ---
 The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern. 
