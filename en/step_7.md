@@ -3,10 +3,10 @@
 BlocksCAD 3D can export an `.STL` file for 3D printing. 
 
 --- task ---
-Render your model and then click `Generate STL`. Remember where you have saved the file. 
+Render your model and then click **Generate STL**. Remember where you save the STL file. 
 --- /task ---
 --- task ---
-Print your pendant using a filament of the colour of your choice.
+3D print your pendant using a filament of the colour of your choice.
 --- /task ---
 --- task ---
 Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate. 
