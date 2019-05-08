@@ -11,21 +11,21 @@ You can drag and drop blocks to write code to create 3D objects.
 
 --- /task ---
 --- task ---
-Create a cylinder with a radius of 12mm and a height of 2mm. 
+Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres). 
 
 ![screenshot](images/pendant-cylinder.png) 
 	
-Cylinders are automatically centred along the X and Y axes. Select `not centered` so that the pendant will sit on the 'surface'.
+`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
 	
-Click on the `Render` button after each change to your code to see the results. 
+Click on the **Render** button after each change to your code to see the results. 
 
 --- /task ---
 --- task ---
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller cylinder from the centre. This will create a hoop:
+Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
 
 ![screenshot](images/pendant-hoop.png) 
 	
-If you like, you can click on the coloured square to change the colour used in the viewer. This will not affect the colour of your pendant, as that will depend on the colour of the filament that you use. 
+If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use. 
 	
 --- /task ---
 	
