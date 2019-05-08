@@ -17,13 +17,13 @@ Use the `cylinder` and `difference` blocks to make the hoop.
 
 The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm. 
 
-To make a hoop, the radius of the second cylinder in the `difference` block will need to be 1mm smaller than the radius of the first cylinder. 
+To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`. 
 --- /hint ---
 --- hint ---
-Adjust the size of the cylinders until the border hoop just touches the outer edges of the six inner hoops. 
+Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops. 
 --- /hint ---
 --- hint ---
-The radius should be around 20mm. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
 
 ![screenshot](images/pendant-border.png)
 	
