@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will use BlocksCAD to design a pendant that can be 3D printed. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art. 
+In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art. 
 
 BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
 
@@ -24,7 +24,7 @@ title: What you will need
 ---
 ### Hardware
 
-+ A 3D printer and filament in a colour of your choice
++ A 3D printer, and filament in a colour of your choice
 + A necklace or cord to hang the pendant on
 
 ### Software
@@ -50,7 +50,7 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
 
-You can download the finished project at:
+Download the finished project code at:
 [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
