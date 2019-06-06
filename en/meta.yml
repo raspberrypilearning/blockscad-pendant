@@ -1,11 +1,11 @@
-title: 3D pendant
+title: 3D Pendant
 hero_image: images/banner.png
-description: blockscad-pendant description
+description: Design a pendant to 3D print and wear.
 version: 4
 duration: 2 # possible values: 1, 2 or 3
 theme: green
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2018-03-21"
 site_areas:
 steps:
