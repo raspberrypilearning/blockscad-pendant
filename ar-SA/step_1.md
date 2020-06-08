@@ -1,56 +1,56 @@
-## Introduction
+## المقدمة
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+في هذا المشروع ، ستستخدم BlocksCAD لتصميم قلادة ثلاثية الأبعاد. تستخدم القلادة تصميمًا هندسيًا يعتمد على "زهرة الحياة" ، وهو تصميم غالبًا ما يوجد في الفن التاريخي.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD هو محرر نماذج ثلاثية الأبعاد يمكنك استخدامه في متصفح الويب على جهاز الكمبيوتر أو الجهاز اللوحي. يمكنك سحب وإفلات كتل التعليمات البرمجية لتصميم نماذج ثلاثية الأبعاد التي يمكن تصديرها للطباعة ثلاثية الأبعاد.
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+إذا كان لديك حق الوصول إلى طابعة ثلاثية الأبعاد ، فيمكنك طباعة القلادة الخاصة بك. القلادة صغيرة ولا تستخدم سوى القليل من الفتيل(مادة الطباعة) ، وهي سريعة في الطباعة ثلاثية الأبعاد.
 
-### What you will make
+### ما الذي ستصنعه
 
-The finished pendant looks like this:
+تبدو القلادة النهائية على النحو التالي:
 
-![screenshot](images/pendant-finished.png)
+![لقطة الشاشة](images/pendant-finished.png)
 
-The pendant has a hoop on top so that you can put it on a necklace or cord.
+تحتوي القلادة على طوق في الأعلى بحيث يمكنك وضعها على عقد أو حبل.
 
-The pendant has a diameter of 40mm, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+يبلغ قطر القلادة 40 مم ، بالإضافة إلى الطوق للتعليق. يبلغ سمكها 2 مم ، لذا ستتم الطباعة ثلاثية الأبعاد بسرعة كبيرة.
 
-After this project, you’ll also be able to code your own design and create a custom pendant.
+بعد هذا المشروع ، ستتمكن أيضًا من برمجة التصميم الخاص بك وإنشاء قلادة مخصصة.
 
 --- collapse ---
 ---
-title: What you will need
+title: ما الذي ستحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
-+ A 3D printer, and filament in a colour of your choice
-+ A necklace or cord to hang the pendant on
++ طابعة ثلاثية الأبعاد ولون فتيل(مادة الطباعة) بلون من اختيارك
++ عقد أو حبل لتعليق القلادة عليه
 
-### Software
+### البرمجيات
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: ما الذي ستتعلمه
 ---
 
-+ How to use `count` loops to create geometric patterns
++ كيفية استخدام حلقات تكرار `العد ` لإنشاء أنماط هندسية
 + How to use `difference` blocks to create hoops from cylinders
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: معلومات إضافية للمعلمين
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الصديق للبيئة عند الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+قم بتنزيل الكود البرمجي للمشروع النهائي من [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
