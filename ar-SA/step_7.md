@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## طباعة ثلاثية الأبعاد وتجميع القلادة الخاصة بك
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCAD 3D يمكن تصدير ملف `.STL` للطباعة الثلاثية الأبعاد.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+قم بعرض النموذج الخاص بك ثم انقر فوق **توليدSTL**. تذكر أين قمت بحفظ ملف STL.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+قم بطباعة القلادة ثلاثية الأبعاد باستخدام خيوط(مادة الطباعة) من اللون الذي تختاره.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+قم بإزالة الطباعة ثلاثية الأبعاد بعناية شديدة من قاعدة الطباعة. القلادة رقيقة ، لذا فهي حساسة للغاية.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+قد تحتاج إلى إزالة خيوط صغيرة من الفتيل (خاصة من الحلقة المعلقة) لتنظيف الطابعة.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+ضع القلادة على سلسلة أو حبل. إذا كنت ترغب في استخدام سلك أو قلادة أكثر سمكًا ، فيمكنك تعديل التصميم للحصول على حلقة معلقة أكبر.
 
-![screenshot](images/pendant-printed.png)
+![لقطة الشاشة](images/pendant-printed.png)
 
 --- /task ---
