@@ -4,11 +4,15 @@ The design uses six interlocking hoops in the centre, and a larger hoop around t
 
 First, make a single inner hoop.
 
---- task --- Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+--- task ---
+
+Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
 You can drag and drop blocks to write code to create 3D objects.
 
---- /task --- --- task --- Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
+--- /task --- --- task ---
+
+Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
 
 ![screenshot](images/pendant-cylinder.png)
 
@@ -16,7 +20,9 @@ You can drag and drop blocks to write code to create 3D objects.
 
 Click on the **Render** button after each change to your code to see the results.
 
---- /task --- --- task --- Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+--- /task --- --- task ---
+
+Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
 
 ![screenshot](images/pendant-hoop.png)
 
