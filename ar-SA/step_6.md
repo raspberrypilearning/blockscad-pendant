@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## التحدي: قم بتغيير القلادة
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+التصميم متأثر بنمط "زهرة الحياة". إذا أحببت ، يمكنك أن تبحث في 'زهرة الحياة' وأن ترى إذا كنت تستطيع إنشاء تصميم مبني على نمط 'بذرة الحياة'.
 
-![screenshot](images/pendant-seed-of-life.png)
+![لقطة شاشة](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+قم بالتجربة وتغيير بعض القيم في قلادتك. على سبيل المثال ، قم بتغيير عدد الأطواق أو الدوران.
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+يمكنك أيضًا محاولة استخدام لطيف (مكعبات) بدلاً من الاسطوانات لإنشاء نمط.
 
-![screenshot](images/pendant-challenge.png)
+![لقطة الشاشة](images/pendant-challenge.png)
 
 --- /challenge ---
 
