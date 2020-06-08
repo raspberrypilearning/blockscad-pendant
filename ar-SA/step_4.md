@@ -1,41 +1,41 @@
-## Add a border
+## أضف حدًا
 
-Next, add a border around the edge of the design.
+بعد ذلك ، أضف حدًا حول حافة التصميم.
 
-![screenshot](images/pendant-border-show.png)
+![لقطة الشاشة](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+أنشئ طوقًا مركزيًا يلامس حواف التصميم. يمكنك إما القيام بالعمليات الرياضية لمعرفة ما يجب أن يكون عليه نصف قطر الدائرة، أو يمكنك فقط إنشاء دائرة وتغيير نصف القطر حتى يعمل. أي من الحالتين جيد!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+استخدم الكتلة البرمجية `union`{:class="blockscadsetops"} لربط الحدود بأطواق أخرى:
 
-![screenshot](images/pendant-union.png)
+![لقطة الشاشة](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+استخدم الكتل البرمجية `الاسطوانية` و `اختلاف ` لإنشاء الطوق.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+يبلغ نصف القطر لكل الأطواق الستة 12 مم ، لذا يجب أن تكون الحدود الأسطوانة التي تصنعها أكبر من ذلك. يمكنك محاولة ضبط نصف القطر إلى 24 مم.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+لصنع طوق، نصف قطر الاسطوانة الثانية `` في بلوك `مختلف` يجب أن يكون أصغر من نصف قطر الأولى `اسطوانة `.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+اضبط حجم الأسطوانات ` ` حتى يلمس الطوق الحدودي الحواف الخارجية للأطواق الداخلية الستة.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+نصف قطر يجب أن يكون حول `20`. (في المقدمة، قالت إن القطر النهائي سيكون 40 ملليمتراً!)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![لقطة الشاشة](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+يمكنك أيضًا استخدام الرياضيات لحساب القطر.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+يبلغ قطر كل حلقة داخلية 24 ملم. إذا اجتمعت الأطواق في مركز القلادة ، فستحتاج حدود الدائرة الى ان يكون نصف قطرها 24 ملم. لكن الأطواق الداخلية تتداخل لأنها تترجم 5 ملم على طول المحورين X و Y.
+
+هذا يزيل قسما من نصف القطر. هذا القسم على القوس 5 مم من الأصل، لذلك نعرف أننا بحاجة إلى إزالة 5 مم من 24 مم. هذا يعني أن نصف القطر الداخلي للطوق الحدودي يجب أن يكون 19 مم.
+
+الرياضيات مفيدة جداً عندما تحتاج إلى أن تكون دقيقاً. ولكن من الجيد فقط تغيير الأشياء حتى تحصل على النتيجة التي تحتاجها.
 
 --- /hint --- --- /hints --- --- /task ---
