@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: قلادة ثلاثية الابعاد
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: تصميم قلادة ثلاثية الأبعاد وأرتدائها.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Create a hoop
+    title: إنشئ طوق
   - 
-    title: Add more hoops
+    title: أضف المزيد من الأطواق
   - 
-    title: Add a border
+    title: أضف حدًا
   - 
-    title: Add a hanging hoop
+    title: أضف طوقا معلق
   - 
-    title: "Challenge: Change the pendant"
+    title: "التحدي: قم بتغيير القلادة"
   - 
-    title: 3D print and assemble your pendant
+    title: طباعة ثلاثية الأبعاد وتجميع القلادة الخاصة بك
