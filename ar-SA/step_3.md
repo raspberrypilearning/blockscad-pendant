@@ -8,7 +8,7 @@
 
 أولاً ، ترجمة ` ` {: class = "blockscadtransforms"} (تحريك) الحلقة الأولى في الموضع.
 
-![screenshot](images/pendant-translate.png)
+![لقطة الشاشة](images/pendant-translate.png)
 
 الآن الطوق قليلا خارج المركز.
 
@@ -18,7 +18,7 @@
 
 أضف حلقة `العد `{:class="blockscadloops"} لإنشاء ثلاث أطواق. لمسافة الاطواق ، أضف كتلة `تدوير `{:class="blockscadtransforms"} بين الحلقة `العد` والكتلة `ترجمة `. `العد ` يضبط المتغير `i` من 1 إلى 3. `تدوير ` ينقل كل حلقة بمقدار `120 × i` درجات، بحيث توزع هذه الحلقات الثلاث بالتساوي حول 360 درجة من الدائرة (360 / 3 = 120).
 
-![screenshot](images/pendant-3-hoops.png)
+![لقطة الشاشة](images/pendant-3-hoops.png)
 
 انظر إلى التعليمة البرمجية وتأكد من فهمك لكيفية عملها.
 
@@ -28,17 +28,17 @@
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+تغيير حلقة `العد `{:class="blockscadloops"} بحيث تعمل ست مرات بدلاً من ثلاث مرات. ستحتاج الأطواق الست إلى مسافات متساوية حول 360 درجة.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+تحتاج إلى تغيير الحلقة التكرارية لتعمل من 1 إلى 6 وتحرك بمضاعفات 60 درجة (360 / 6 = 60):
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+يجب أن تبدو التعليمة البرمجية الخاصة بك بالشكل التالي:
 
-![screenshot](images/pendant-6-hoops.png)
+![لقطة الشاشة](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
