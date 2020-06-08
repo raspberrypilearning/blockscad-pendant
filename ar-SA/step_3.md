@@ -1,30 +1,30 @@
-## Add more hoops
+## أضف المزيد من الأطواق
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+يستخدم التصميم ستة أطواق متقاطعة ، ويتم نقل كل حلقة من المركز وتدويرها بعدد مختلف من الزوايا.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+في التصميم النهائي ، لا يوجد طوق مركزي: حيث يتم نقل جميع الأطواق خارج المركز.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+أولاً ، ترجمة ` ` {: class = "blockscadtransforms"} (تحريك) الحلقة الأولى في الموضع.
 
 ![screenshot](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
+الآن الطوق قليلا خارج المركز.
 
 --- /task --- --- task ---
 
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
+تحتاج إلى نسخ متعددة من هذا الطوق ، تدور حول المركز. أولاً ، قم بإنشاء ثلاث أطواق متساوية المسافات:
 
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
+أضف حلقة `العد `{:class="blockscadloops"} لإنشاء ثلاث أطواق. لمسافة الاطواق ، أضف كتلة `تدوير `{:class="blockscadtransforms"} بين الحلقة `العد` والكتلة `ترجمة `. `العد ` يضبط المتغير `i` من 1 إلى 3. `تدوير ` ينقل كل حلقة بمقدار `120 × i` درجات، بحيث توزع هذه الحلقات الثلاث بالتساوي حول 360 درجة من الدائرة (360 / 3 = 120).
 
 ![screenshot](images/pendant-3-hoops.png)
 
-Look at the code and make sure you understand how it works.
+انظر إلى التعليمة البرمجية وتأكد من فهمك لكيفية عملها.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+التصميم النهائي يحتوي على ستة اطواق بدلا من ثلاثة أطواق. قم بتغيير التعليمات البرمجية الخاص بك بحيث يقوم بإنشاء ستة أطواق متساوية المسافات.
 
 --- hints --- --- hint ---
 
