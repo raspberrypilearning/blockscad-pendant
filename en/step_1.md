@@ -22,6 +22,7 @@ After this project, you’ll also be able to code your own design and create a c
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 + A 3D printer, and filament in a colour of your choice
