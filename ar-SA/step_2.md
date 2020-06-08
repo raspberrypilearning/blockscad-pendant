@@ -1,32 +1,32 @@
-## Create a hoop
+## إنشئ طوق
 
-The design uses six interlocking hoops in the centre, and a larger hoop around the outside. The pendant is 4cm wide, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+يستخدم التصميم ستة أطواق متداخلة في المركز ، وطوق أكبر حول الخارج. يبلغ عرض القلادة 40 مم ، بالإضافة إلى الطوق للتعليق. يبلغ سمكها 2 مم ، لذا ستتم الطباعة ثلاثية الأبعاد بسرعة كبيرة.
 
-First, make a single inner hoop.
+أولاً ، قم بعمل حلقة داخلية واحدة.
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+افتح محرر BlocksCAD في متصفح ويب [blockscad3d.com/محرر/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
-
---- /task --- --- task ---
-
-Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
-
-![screenshot](images/pendant-cylinder.png)
-
-`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
-
-Click on the **Render** button after each change to your code to see the results.
+يمكنك سحب وإفلات الكتل البرمجية لكتابة التعليمات البرمجية لإنشاء كائنات ثلاثية الأبعاد.
 
 --- /task --- --- task ---
 
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+إنشاء اسطوانة `` مع نصف قطر `12` وارتفاع `2` (الوحدة هنا مليمتر).
 
-![screenshot](images/pendant-hoop.png)
+![لقطة الشاشة](images/pendant-cylinder.png)
 
-If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.
+` الاسطوانات ` يتم توسيطها تلقائيًا على طول محوري X و Y. أختر ` غير مركزي ` بحيث تقعد القلادة على السطح. (وهذا يعني أن قيمة محور Z أكبر من 0).
+
+انقر على الزر **Render** بعد كل تغيير في الكود الخاص بك لمشاهدة النتائج.
+
+--- /task --- --- task ---
+
+الآن، استخدم `varice`{:class="blockscadsetops"} لإزالة اسطوانة أصغر `من المركز` من المركز. هذا ينشئ الطوق:
+
+![لقطة الشاشة](images/pendant-hoop.png)
+
+إذا كنت ترغب ، يمكنك النقر على المربع الملون لتغيير اللون المستخدم في المعاينة. لا يؤثر ذلك على لون قلادتك ، حيث يعتمد ذلك على لون الفتيل الذي تستخدمه.
 
 --- /task ---
 	
