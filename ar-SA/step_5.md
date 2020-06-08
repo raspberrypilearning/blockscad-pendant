@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## أضف طوقا معلق
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+الآن ، أضف طوقًا صغيرًا معلقًا يمكنك من خلاله ربط حبل لصنع قلادة.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+نصيحة: هذه التعليمات البرمجية تضيف وصلة صغيرة يمكن استخدامها مع موضوع القلادة المرنة. إذا كان لديك حبل أكبر أو سلسلة أكبر، يمكنك تعديل التعليمات البرمجية لإنشاء حلقة معلقة أكبر.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+أضف طوقًا صغيرًا معلقًا يمكنك وضع خيط من خلاله.
 
-Click the `[+]` on the `union` block to add another section.
+انقر فوق `+` في الجزء العلوي من كتلة `union` لإضافة قسم آخر.
 
-![screenshot](images/pendant-hang.png)
+![لقطة الشاشة](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+في الوقت الحالي ، فإن وضع الطوق المعلق ليس مرضيًا للغاية.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+أضف كتلة `تدوير `{:class="blockscadtransforms"} لتحريك الأطواق الداخلية بحيث يتركز الطوق المعلق على واحدة من الفجوات بينها.
 
-![screenshot](images/pendant-hang-rotate.png)
+![لقطة الشاشة](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
