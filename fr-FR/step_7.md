@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## Impression 3D et montage de ton pendentif
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCAD 3D peut exporter un fichier `.STL` pour l'impression 3D.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Fais un rendu de ton modèle, puis clique sur **Générer STL**. N'oublie pas où tu enregistres le fichier STL.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+Imprime en 3D ton pendentif en utilisant un filament de la couleur de ton choix.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+Retire très soigneusement l'impression 3D du plateau. Le pendentif est mince, donc il est assez délicat.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+Il se peut que tu doives enlever de petites mèches de filament (en particulier de l'attache) pour nettoyer l’impression.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+Enfile le pendentif sur une chaîne ou un cordon. Si tu veux utiliser un cordon plus épais ou un collier, tu peux ajuster le design pour avoir une attache plus grande.
 
-![screenshot](images/pendant-printed.png)
+![capture d'écran](images/pendant-printed.png)
 
 --- /task ---
