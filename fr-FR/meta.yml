@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: Pendentif 3D
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: Conçois un pendentif à imprimer en 3D et à porter.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -13,14 +13,14 @@ steps:
   - 
     title: Introduction
   - 
-    title: Create a hoop
+    title: Créer un cerceau
   - 
-    title: Add more hoops
+    title: Ajouter plus de cerceaux
   - 
-    title: Add a border
+    title: Ajouter une bordure
   - 
-    title: Add a hanging hoop
+    title: Ajouter une attache
   - 
-    title: "Challenge: Change the pendant"
+    title: "Défi : changer le pendentif"
   - 
-    title: 3D print and assemble your pendant
+    title: Impression 3D et montage de ton pendentif
