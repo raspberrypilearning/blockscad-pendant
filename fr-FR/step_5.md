@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## Ajouter une attache
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+Maintenant, ajoute une petite attache à travers lequel tu peux filer une corde pour faire un collier.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Astuce : Ce code ajoute un petit cerceau qui peut être utilisé avec un fil de collier élastique. Si tu as un cordon ou une chaîne plus grande, tu peux adapter le code pour créer une attache plus grande.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+Ajoute une petite attache dans laquelle tu peux passer un fil.
 
-Click the `[+]` on the `union` block to add another section.
+Clique sur le `[+]` sur le bloc `union` pour ajouter une autre section.
 
-![screenshot](images/pendant-hang.png)
+![capture d'écran](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+Pour le moment, la position de l'attache n'est pas très agréable visuellement.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+Ajoute un bloc `rotation`{:class="blockscadtransforms"} pour déplacer les cerceaux intérieurs afin que l'attache soit centrée sur l'un des écarts entre eux.
 
-![screenshot](images/pendant-hang-rotate.png)
+![capture d'écran](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
