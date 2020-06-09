@@ -1,41 +1,41 @@
-## Add a border
+## Ajouter une bordure
 
-Next, add a border around the edge of the design.
+Ensuite, ajoute une bordure autour du bord du dessin.
 
-![screenshot](images/pendant-border-show.png)
+![capture d'écran](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+Crée un cerceau centré qui touche les bords du design. Tu peux soit faire le calcul pour déterminer le rayon du cercle, soit créer un cercle et modifier le rayon jusqu'à ce qu'il fonctionne. L'une ou l'autre approche est bonne !
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+Utilise le bloc `union`{:class="blockscadsetops"} pour relier la bordure aux autres cerceaux :
 
-![screenshot](images/pendant-union.png)
+![capture d'écran](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+Utilise les blocs `cylindres` et `soustraction` pour faire le cerceau.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+Les six cerceaux ont chacun un rayon de 12 mm, donc le cylindre de bordure que tu fais doit être plus grand que cela. Tu peux essayer de régler le rayon à 24 mm.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+Pour faire un cerceau, le rayon du second `cylindre` dans le bloc `soustraction` doit être inférieur de 1 mm au rayon du premier `cylindre`.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+Ajuste la taille des `cylindres` jusqu'à ce que le cerceau de bordure touche simplement les bords extérieurs des six cerceaux intérieurs.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+Le rayon devrait être autour de `20`. (Dans l'introduction, il est dit que le pendentif fini aura un diamètre de 40 mm !)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![capture d'écran](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+Tu peux également utiliser les mathématiques pour déterminer le diamètre.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+Le diamètre de chaque cerceau intérieur est de 24 mm. Si les cerceaux se sont rencontrés au centre du cercle, alors le cerceau de la bordure devrait avoir un rayon de 24 mm. Mais les cerceaux intérieurs se chevauchent, parce qu'ils sont translatés de 5 mm le long des axes X et Y.
+
+Cela supprime une section du rayon. Cette section est sur l'arc, 5 mm de l'origine, nous savons donc que nous devons enlever 5 mm de 24 mm. Cela signifie que le rayon intérieur du cerceau de bordure devrait être de 19 mm.
+
+Les mathématiques sont vraiment utiles lorsque tu as besoin d'être précis. Mais il est bon de simplement changer les choses jusqu'à ce que tu obtiennes le résultat dont tu as besoin.
 
 --- /hint --- --- /hints --- --- /task ---
