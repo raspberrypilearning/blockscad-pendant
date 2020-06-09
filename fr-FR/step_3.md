@@ -1,44 +1,44 @@
-## Add more hoops
+## Ajouter plus de cerceaux
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+Le design utilise six cerceaux entrecroisés, et chaque cerceau est déplacé du centre et pivoté d'un nombre différent de degrés.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+Dans le design final, il n'y a pas de cerceaux centraux: les cerceaux sont tous déplacés du centre.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+D'abord, `translation`{:class="blockscadtransforms"} (déplace) le premier cerceau en position.
 
-![screenshot](images/pendant-translate.png)
+![capture d'écran](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
-
---- /task --- --- task ---
-
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
-
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
-
-![screenshot](images/pendant-3-hoops.png)
-
-Look at the code and make sure you understand how it works.
+Maintenant le cerceau est un peu excentré.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+Tu as besoin de plusieurs copies de ce cerceau, tourné autour du centre. Tout d'abord, crée trois cerceaux à espacement égal :
+
+Ajoute une boucle `compter`{:class="blockscadloops"} pour créer trois cerceaux. Pour espacer les cerceaux, ajoute un bloc `rotation`{:class="blockscadtransforms"} entre la boucle `compter` et le bloc `translation`. `Compter` définit la variable `i` de 1 à 3. `Rotation` déplace chaque cerceau de `120 × i `degrés, de sorte que les trois cerceaux sont répartis également autour des 360 degrés d'un cercle (360/3 = 120).
+
+![capture d'écran](images/pendant-3-hoops.png)
+
+Regarde le code et assure-toi de comprendre comment il fonctionne.
+
+--- /task --- --- task ---
+
+Le design fini a six cerceaux au lieu de trois. Modifie ton code pour qu'il crée six cercles espacés de manière égale.
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+Change la boucle `compter`{:class="blockscadloops"} pour qu'elle s'exécute six fois au lieu de trois. Les six cerceaux devront être également être espacés de manière égale autour de 360 degrés.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+Tu dois changer la boucle pour qu'elle passe de 1 à 6 et se déplacer par multiples de 60 degrés (360/6 = 60) :
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+Ton code devrait ressembler à ceci :
 
-![screenshot](images/pendant-6-hoops.png)
+![capture d'écran](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
