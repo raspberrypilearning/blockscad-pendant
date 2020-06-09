@@ -1,56 +1,56 @@
 ## Introduction
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+Dans ce projet, tu vas utiliser BlocksCAD pour concevoir un pendentif 3D. Le pendentif utilise un design géométrique basé sur la « Fleur de Vie », un design que l'on trouve souvent dans l'art historique.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD est un éditeur de modèle 3D que tu peux utiliser dans un navigateur Web sur un ordinateur de bureau ou une tablette. Tu fais glisser et déposer des blocs de code pour concevoir des modèles 3D qui peuvent être exportés pour l'impression 3D.
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+Si tu as accès à une imprimante 3D, tu peux imprimer ton pendentif. Le pendentif est petit et n'utilise qu'un peu de filament, et il est rapide à imprimer en 3D.
 
-### What you will make
+### Ce que tu feras
 
-The finished pendant looks like this:
+Le pendentif fini ressemble à ceci :
 
-![screenshot](images/pendant-finished.png)
+![capture d'écran](images/pendant-finished.png)
 
-The pendant has a hoop on top so that you can put it on a necklace or cord.
+Le pendentif a une attache sur le dessus pour pouvoir le mettre sur un collier ou un cordon.
 
-The pendant has a diameter of 40mm, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+Le pendentif a un diamètre de 40 mm, plus la boucle pour accrocher. Il a une épaisseur de 2 mm, il sera donc imprimé en 3D assez rapidement.
 
-After this project, you’ll also be able to code your own design and create a custom pendant.
+Après ce projet, tu seras également en mesure de coder ton propre design et de créer un pendentif personnalisé.
 
 --- collapse ---
 ---
-title: What you will need
+title: Ce dont tu auras besoin
 ---
 
-### Hardware
+### Matériel informatique
 
-+ A 3D printer, and filament in a colour of your choice
-+ A necklace or cord to hang the pendant on
++ Une imprimante 3D et un filament dans la couleur de ton choix
++ Un collier ou un cordon pour accrocher le pendentif
 
-### Software
+### Logiciel
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ Ce projet peut être réalisé dans un navigateur Web en utilisant BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Ce que tu vas apprendre
 ---
 
-+ How to use `count` loops to create geometric patterns
-+ How to use `difference` blocks to create hoops from cylinders
++ Comment utiliser les boucles `compter` pour créer des motifs géométriques
++ Comment utiliser les blocs `soustraction` pour créer des boucles à partir de cylindres
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informations supplémentaires pour les éducateurs
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+Téléchargez le code du projet terminé à : [http://rpf.io/p/fr/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
