@@ -1,10 +1,10 @@
-## Introduction
+## Εισαγωγή
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+Σε αυτό το έργο, θα χρησιμοποιήσεις το BlocksCAD για να σχεδιάσεις ένα μενταγιόν σε 3D. Το μενταγιόν χρησιμοποιεί ένα γεωμετρικό σχέδιο που βασίζεται στο «Flower of Life», ένα σχέδιο που συναντάμε συχνά στην ιστορία τέχνης.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+Το BlocksCAD είναι ένα πρόγραμμα επεξεργασίας τρισδιάστατων μοντέλων που μπορείς να χρησιμοποιήσεις σε ένα πρόγραμμα περιήγησης ιστού σε υπολογιστή ή tablet. Μεταφέρεις και αποθέτεις μπλοκ κώδικα για να σχεδιάσεις μοντέλα 3D που μπορούν να εξαχθούν για εκτύπωση 3D.
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+Αν έχεις πρόσβαση σε έναν 3D εκτυπωτή, μπορείς να εκτυπώσεις το μενταγιόν σου. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
 
 ### What you will make
 
