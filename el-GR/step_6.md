@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## Πρόκληση: Άλλαξε το μενταγιόν
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+Η έμπνευση για το σχέδιο προέρχεται από το σχέδιο «Flower of Life». Αν θέλεις, μπορείς να μελετήσεις το «Flower of Life» και να δεις αν μπορείς να δημιουργήσεις ένα σχέδιο με βάση το μοτίβο «Seed of Life».
 
-![screenshot](images/pendant-seed-of-life.png)
+![στιγμιότυπο οθόνης](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+Πειραματίσου και άλλαξε μερικές τιμές στο μενταγιόν σου. Για παράδειγμα, άλλαξε τον αριθμό των κρίκων ή της περιστροφής.
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+Θα μπορούσες επίσης να δοκιμάσεις να χρησιμοποιήσεις κυβοειδή cuboids (κύβους) αντί κυλίνδρων για να δημιουργήσεις ένα μοτίβο.
 
-![screenshot](images/pendant-challenge.png)
+![στιγμιότυπο οθόνης](images/pendant-challenge.png)
 
 --- /challenge ---
 
