@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+इस परियोजना में, आप एक 3D झुमका डिजाइन करने के लिए BlocksCAD का उपयोग करेंगे। The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
 
 BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
 
