@@ -16,29 +16,29 @@ Now the hoop is a little off-centre.
 
 You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
 
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
+Πρόσθεσε έναν βρόχο `count`{:class="blockscadloops"} (μέτρηση) για τη δημιουργία τριών κρίκων. Για να διαχωρίσεις τους κρίκους, βάλε μια εντολή περιστροφής `rotate`{:class="blockscadtransforms"} μεταξύ του βρόχου `count` και της μετακίνησης (`translate`). Η `count` ορίζει τη μεταβλητή `i` από 1 έως 3. Η `rotate` περιστρέφει κάθε κρίκο κατά `120 × i` μοίρες, έτσι ώστε και οι τρεις κρίκοι να κατανέμονται εξίσου στις 360 μοίρες ενός κύκλου (360/3 = 120).
 
-![screenshot](images/pendant-3-hoops.png)
+![στιγμιότυπο οθόνης](images/pendant-3-hoops.png)
 
-Look at the code and make sure you understand how it works.
+Δες τον κώδικα και βεβαιώσου ότι καταλαβαίνεις πώς λειτουργεί.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+Ο τελικός σχεδιασμός έχει έξι κρίκους αντί για τρεις. Άλλαξε τον κώδικά σου έτσι ώστε να δημιουργεί έξι κρίκους.
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+Άλλαξε τον βρόχο `count`{:class="blockscadloops"} έτσι ώστε να εκτελείται έξι φορές αντί για τρεις. Οι έξι κρίκοι θα πρέπει να κατανεμηθούν ισόποσα στις 360 μοίρες.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+Πρέπει να αλλάξεις τον βρόχο για να τρέξει από 1 σε 6 και να μετακινηθεί σε πολλαπλάσια των 60 μοιρών (360 / 6 = 60):
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+Ο κώδικάς σου θα πρέπει να μοιάζει κάπως έτσι:
 
-![screenshot](images/pendant-6-hoops.png)
+![στιγμιότυπο οθόνης](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
