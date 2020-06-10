@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## Πρόσθεσε έναν κρίκο για κρέμασμα
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+Τώρα, πρόσθεσε έναν μικρό κρίκο μέσω του οποίου μπορείς να περάσεις ένα κορδόνι για να φτιάξεις ένα κολιέ.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Συμβουλή: Αυτός ο κώδικας προσθέτει έναν μικρό κρίκο που μπορεί να χρησιμοποιηθεί με ελαστικό νήμα για κολιέ. Εάν έχεις μεγαλύτερο κορδόνι ή αλυσίδα, μπορείς να προσαρμόσεις τον κώδικα για να δημιουργεί έναν μεγαλύτερο κρίκο.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+Πρόσθεσε μια μικρή στεφάνη κρεμάσματος μέσα από την οποία μπορείς να περάσεις ένα νήμα.
 
-Click the `[+]` on the `union` block to add another section.
+Κάνε κλικ στο `+` στο επάνω μέρος του μπλοκ ένωση (`union`) για να προσθέσεις άλλη μια ενότητα.
 
-![screenshot](images/pendant-hang.png)
+![στιγμιότυπο οθόνης](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+Προς το παρόν, η θέση του κρεμαστού κρίκου δεν είναι πολύ ευχάριστη οπτικά.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+Πρόσθεσε μια εντολή περιστροφής `rotate`{:class="blockscadtransforms"} για να μετακινήσεις τους εσωτερικούς κρίκους έτσι ώστε ο κρίκος κρεμάσματος να είναι κεντραρισμένος σε ένα από τα κενά μεταξύ τους.
 
-![screenshot](images/pendant-hang-rotate.png)
+![στιγμιότυπο οθόνης](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
