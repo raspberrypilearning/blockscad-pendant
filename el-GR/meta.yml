@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: 3D μενταγιόν
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: Σχεδίασε ένα μενταγιόν για 3D εκτυπωτή και φόρεσέ το.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Create a hoop
+    title: Δημιούργησε μια στεφάνη
   - 
-    title: Add more hoops
+    title: Πρόσθεσε περισσότερα στεφάνια
   - 
-    title: Add a border
+    title: Βάλε περίγραμμα
   - 
-    title: Add a hanging hoop
+    title: Πρόσθεσε ένα στεφάνι για κρέμασμα
   - 
-    title: "Challenge: Change the pendant"
+    title: "Πρόκληση: Άλλαξε το μενταγιόν"
   - 
-    title: 3D print and assemble your pendant
+    title: 3D εκτύπωση και συναρμολόγηση του μενταγιόν
