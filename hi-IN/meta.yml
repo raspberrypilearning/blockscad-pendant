@@ -1,5 +1,5 @@
 ---
-title: 3D pendant
+title: 3D झुमका
 hero_image: images/banner.png
 description: Design a pendant to 3D print and wear.
 version: 4
@@ -11,7 +11,7 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
     title: Create a hoop
   - 
