@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## 3D εκτύπωση και συναρμολόγηση του μενταγιόν
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+Το BlocksCAD 3D μπορεί να εξάγει αρχείο `.STL` για εκτύπωση σε 3D εκτυπωτή.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Κάνε Render (αποτύπωσε) το μοντέλο σου και μετά κάνε κλικ στο **Generate STL**. Θυμήσου πού αποθήκευσες το αρχείο STL.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+Εκτύπωσε το μενταγιόν σου χρησιμοποιώντας ένα νήμα του χρώματος της επιλογής σου.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+Αφαίρεσε πολύ προσεκτικά το εκτυπωμένο τρισδιάστατο αντικείμενο από τον 3D εκτυπωτή. Το μενταγιόν είναι λεπτό, οπότε είναι αρκετά εύθραυστο.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+Ίσως χρειαστείς να αφαιρέσεις μερικές γραμμές από νήματα (ειδικά από τον κρίκο για το κρέμασμα) για να καθαρίσεις την εκτύπωση.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+Πέρασε το μενταγιόν σε αλυσίδα ή κορδόνι. Εάν θέλεις να χρησιμοποιήσεις ένα παχύτερο κορδόνι ή κολιέ, τότε μπορείς να προσαρμόσεις τη σχεδίαση για να έχεις έναν μεγαλύτερο κρεμαστό κρίκο.
 
-![screenshot](images/pendant-printed.png)
+![Στιγμιότυπο οθόνης](images/pendant-printed.png)
 
 --- /task ---
