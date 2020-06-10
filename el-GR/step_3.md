@@ -1,20 +1,20 @@
-## Add more hoops
+## Πρόσθεσε περισσότερους κρίκους
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+Ο σχεδιασμός χρησιμοποιεί έξι τεμνόμενους κρίκους και κάθε κρίκος μετακινείται έξω από το κέντρο και περιστρέφεται με διαφορετικό αριθμό μοιρών.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+Στο τελικό σχέδιο, δεν υπάρχει κεντρικός κρίκος: όλοι οι κρίκοι απομακρύνονται από το κέντρο.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+Πρώτα, μετακίνησε (`translate`{:class="blockscadtransforms"}) τον πρώτο κρίκο στη θέση του.
 
-![screenshot](images/pendant-translate.png)
+![στιγμιότυπο οθόνης](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
+Τώρα ο κρίκος είναι λίγο εκτός κέντρου.
 
 --- /task --- --- task ---
 
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
+Θα χρειαστείς πολλά αντίγραφα αυτού του κρίκου, περιστρεφόμενα γύρω από το κέντρο. Κατ 'αρχάς, δημιουργήστε τρεις ίδιους κρίκους:
 
 Πρόσθεσε έναν βρόχο `count`{:class="blockscadloops"} (μέτρηση) για τη δημιουργία τριών κρίκων. Για να διαχωρίσεις τους κρίκους, βάλε μια εντολή περιστροφής `rotate`{:class="blockscadtransforms"} μεταξύ του βρόχου `count` και της μετακίνησης (`translate`). Η `count` ορίζει τη μεταβλητή `i` από 1 έως 3. Η `rotate` περιστρέφει κάθε κρίκο κατά `120 × i` μοίρες, έτσι ώστε και οι τρεις κρίκοι να κατανέμονται εξίσου στις 360 μοίρες ενός κύκλου (360/3 = 120).
 
