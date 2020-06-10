@@ -1,41 +1,41 @@
-## Add a border
+## Βάλε περίγραμμα
 
-Next, add a border around the edge of the design.
+Στη συνέχεια, βάλε ένα περίγραμμα γύρω από την άκρη του σχεδίου.
 
-![screenshot](images/pendant-border-show.png)
+![στιγμιότυπο οθόνης](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+Δημιούργησε ένα κεντραρισμένο κρίκο που αγγίζει τις άκρες του σχεδίου. Μπορείς είτε να κάνεις τις μαθηματικές πράξεις για να υπολογίσεις ποια πρέπει να είναι η ακτίνα του κύκλου, είτε μπορείς απλά να δημιουργήσεις έναν κύκλο και να αλλάξεις την ακτίνα του μέχρι να δουλεύει. Και οι δύο προσεγγίσεις είναι εντάξει!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+Χρησιμοποίησε την ένωση `union`{:class="blockscadsetops"} για να ενώσεις το περίγραμμα με τα άλλα στεφάνια:
 
-![screenshot](images/pendant-union.png)
+![στιγμιότυπο οθόνης](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+Χρησιμοποίησε τον κύλινδρο `cylinder` και τη διαφορά `difference` για να φτιάξεις τον κρίκο.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+Καθένας από τους έξι κρίκους έχει ακτίνα 12 mm, οπότε ο κύλινδρος του περιγράμματος θα πρέπει να είναι μεγαλύτερος από αυτόν. Θα μπορούσες να δοκιμάσεις να ρυθμίσεις την ακτίνα στα 24 mm.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+Για να δημιουργήσεις έναν κρίκο, η ακτίνα του δεύτερου κυλίνδρου `cylinder` στην εντολή `difference` πρέπει να είναι 1 mm μικρότερη από την ακτίνα του πρώτου `cylinder`.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+Ρύθμισε το μέγεθος των κυλίνδρων `cylinder` έως ότου ο μεγάλος κρίκος αγγίζει τα εξωτερικά άκρα των έξι εσωτερικών κρίκων.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+Η ακτίνα πρέπει να είναι περίπου `20`. (Στην εισαγωγή, είπαμε ότι το τελικό μενταγιόν θα έχει διάμετρο 40 mm!)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![στιγμιότυπο οθόνης](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+Θα μπορούσες επίσης να χρησιμοποιήσεις μαθηματικά για να υπολογίσεις τη διάμετρο.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+Η διάμετρος κάθε εσωτερικού κρίκου είναι 24 mm. Εάν οι κρίκοι συναντηθούν στο κέντρο του μενταγιόν, τότε το μεγάλο στεφάνι θα πρέπει να έχει ακτίνα 24 mm. Αλλά οι εσωτερικοί κρίκοι αλληλοεπικαλύπτονται, επειδή μετακινούνται κατά 5 mm κατά μήκος των αξόνων Χ και Υ.
+
+Αυτό αφαιρεί ένα τμήμα από την ακτίνα. Αυτό το κομμάτι βρίσκεται στο τόξο, 5mm από την αρχή, οπότε γνωρίζουμε ότι πρέπει να αφαιρέσουμε 5mm από τα 24mm. Αυτό σημαίνει ότι η εσωτερική ακτίνα του μεγάλου κρίκου πρέπει να είναι 19 mm.
+
+Τα μαθηματικά είναι πραγματικά χρήσιμα όταν πρέπει να είσαι ακριβής. Αλλά είναι εντάξει κι αν παίξεις με τις τιμές μέχρι να πάρεις το αποτέλεσμα που θες.
 
 --- /hint --- --- /hints --- --- /task ---
