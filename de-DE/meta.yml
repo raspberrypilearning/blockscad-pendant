@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: 3D-Anhänger
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: Gestalte einen Anhänger zum 3D-Drucken und tragen.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Create a hoop
+    title: Einen Reifen erstellen
   - 
-    title: Add more hoops
+    title: Füge mehr Reifen hinzu
   - 
-    title: Add a border
+    title: Füge einen Rand hinzu
   - 
-    title: Add a hanging hoop
+    title: Füge einen Aufhänge-Reifen hinzu
   - 
-    title: "Challenge: Change the pendant"
+    title: "Herausforderung: Ändere den Anhänger"
   - 
-    title: 3D print and assemble your pendant
+    title: 3D-Drucke deinen Anhänger und baue ihn zusammen
