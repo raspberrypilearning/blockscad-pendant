@@ -40,7 +40,7 @@ title: ما الذي ستتعلمه
 ---
 
 + كيفية استخدام حلقات تكرار `العد ` لإنشاء أنماط هندسية
-+ How to use `difference` blocks to create hoops from cylinders
++ كيفية استخدام كتل `مختلف` لإنشاء الاطواق من الاسطوانات
 
 --- /collapse ---
 
