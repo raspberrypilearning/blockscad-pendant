@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## Füge einen Aufhänge-Ring hinzu
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+Füge nun einen kleinen Hänge-Ring hinzu, durch den du eine Schnur oder eine Halskette fädeln kannst.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Tipp: Dieser Code fügt einen kleinen Ring hinzu, der mit elastischem Halskettenfaden verwendet werden kann. Falls du eine dickere Schnur oder Kette hast, kannst du den Code anpassen um einen größeren Aufhänge-Ring zu erzeugen.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+Füge einen kleinen Ring hinzu, durch den du einen Faden ziehen kannst.
 
-Click the `[+]` on the `union` block to add another section.
+Klicke auf das `[+]` im `Vereinigung`-Block um einen weiteren Abschnitt hinzuzufügen.
 
-![screenshot](images/pendant-hang.png)
+![Screenshot](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+Im Moment ist die Position des Aufhängers optisch nicht sehr ansprechend.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+Füge einen `rotiere`{:class="blockscadtransforms"}-Block hinzu, um die inneren Ringe so zu bewegen, dass der Aufhänger mittig über einer der Lücken liegt.
 
-![screenshot](images/pendant-hang-rotate.png)
+![Screenshot](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
