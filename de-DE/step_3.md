@@ -1,44 +1,44 @@
-## Add more hoops
+## Füge mehr Reifen hinzu
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+Das Design verwendet sechs, sich kreuzende Reifen, und jeder Reifen wird aus der Mitte herausbewegt und um eine andere Anzahl von Grad gedreht.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+Im endgültigen Design gibt es keinen zentralen Ring: Die Reifen werden alle aus dem Zentrum versetzt.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+Zuerst, `verschiebe`{:class="blockscadtransforms"} den ersten Ring in Position.
 
-![screenshot](images/pendant-translate.png)
+![Screenshot](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
-
---- /task --- --- task ---
-
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
-
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
-
-![screenshot](images/pendant-3-hoops.png)
-
-Look at the code and make sure you understand how it works.
+Jetzt ist der Reifen etwas außerhalb der Mitte.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+Du benötigst mehrere Kopien dieses Reifens, gedreht um die Mitte. Erstelle zuerst drei gleichmäßig verteilte Reifen:
+
+Füge eine `Zähler`{:class="blockscadloops"}-Schleife hinzu, um drei Ringe zu erstellen. Um die Ringe auf Abstand zu bringen, füge einen `rotieren`{:class="blockscadtransforms"}-Block zwischen der `Zähler`-Schleife und dem `verschiebe`-Block ein. Der `zähle`-Block setzt die Variable `i` von 1 bis 3. `Rotieren` bewegt jeden Reifen um `120 x i` Grad, so dass die drei Reifen gleichmäßig auf den 360 Grad eines Kreises verteilt sind (360 / 3 = 120).
+
+![Screenshot](images/pendant-3-hoops.png)
+
+Schau dir den Code an und stelle sicher, dass du verstehst, wie er funktioniert.
+
+--- /task --- --- task ---
+
+Das fertige Design hat sechs statt drei Reifen. Ändere deinen Code so, dass er sechs gleichmäßig verteilte Reifen erzeugt.
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+Ändere die `zähle`{:class="blockscadloops"}-Schleife, so dass sie sechsmal läuft statt dreimal. Die sechs Reifen müssen einen gleichmäßigen Abstand um 360 Grad haben.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+Du musst die Schleife ändern um von 1 bis 6 zu laufen und um vielfache von 60 Grad (360 / 6 = 60) zu verschieben:
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+Dein Code sollte so aussehen:
 
-![screenshot](images/pendant-6-hoops.png)
+![Screenshot](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
