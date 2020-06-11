@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## Herausforderung: Ändere den Anhänger
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+Das Design ist vom Muster „Blume des Lebens“ beeinflusst. Wenn du willst, kannst du nach der "Blume des Lebens" suchen und probieren, ob du ein Design auf Grundlage des "Samen des Lebens"-Muster erstellen kannst.
 
-![screenshot](images/pendant-seed-of-life.png)
+![Screenshot](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+Experimentiere und ändere einige Werte in deinem Anhänger. Ändere zum Beispiel die Anzahl der Ringe oder ihre Rotation.
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+Du könntest außerdem versuchen Quader (Würfel) anstelle von Zylinder zu verwenden, um Muster zu erzeugen.
 
-![screenshot](images/pendant-challenge.png)
+![Screenshot](images/pendant-challenge.png)
 
 --- /challenge ---
 
