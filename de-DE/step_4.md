@@ -1,41 +1,41 @@
-## Add a border
+## Füge einen Rand hinzu
 
-Next, add a border around the edge of the design.
+Als nächstes füge einen Rahmen um den Rand des Designs hinzu.
 
-![screenshot](images/pendant-border-show.png)
+![Screenshot](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+Erstelle einen zentrierten Reifen der die Kanten des Designs berührt. Du kannst entweder mathematisch ausrechnen, wie groß der Radius des Kreises sein muss oder du kannst einfach einen Kreis erstellen und den Radius solange ändern, bis er passt. Beides ist in Ordnung!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+Nutze den `Vereinigung`{:class="blockscadsetops"}-Block, um den Rand mit den anderen Ringen zusammen zu fügen:
 
-![screenshot](images/pendant-union.png)
+![Screenshot](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+Verwende die `Zylinder`- und `Differenz`-Blöcke, um den Reifen zu erzeugen.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+Die sechs Reifen haben jeweils einen Radius von 12mm, also muss der Randzylinder, den du erstellst, größer sein. Du könntest versuchen den Radius auf 24mm zu setzen.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+Um einen Reifen herzustellen, muss der Radius des zweiten `Zylinders` im `Differenz-`-Block 1mm kleiner sein als der Radius des ersten `Zylinders`.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+Passe die Größe der `Zylinder` solange an, bis der Randring gerade so die äußeren Kantten der sechs inneren Reifen berührt.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+Der Radius sollte um `20` liegen. (In der Einleitung hieß es, dass der fertige Anhänger einen Durchmesser von 40 mm haben wird!)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![Screenshot](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+Du könntest auch Mathematik nutzen, um den Durchmesser zu ermitteln.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+Der Durchmesser jedes inneren Rings beträgt 24 mm. Wenn sich die Ringe in der Mitte des Anhängers treffen würden, müsste der Randreifen einen Radius von 24 mm haben. Die inneren Reifen überlappen sich jedoch, da sie entlang der X- und Y-Achse um 5 mm verschoben sind.
+
+Dadurch wird ein Abschnitt aus dem Radius entfernt. Dieser Abschnitt befindet sich auf dem Bogen, 5 mm vom Ursprung entfernt, sodass wir wissen, dass wir 5mm von 24mm entfernen müssen. Dies bedeutet, dass der Innenradius des Randreifens 19 mm betragen sollte.
+
+Mathematik ist wirklich nützlich, wenn du genau sein musst. Aber es ist in Ordnung, die Dinge so lange zu ändern, bis du das gewünschte Ergebnis erhälst.
 
 --- /hint --- --- /hints --- --- /task ---
