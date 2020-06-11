@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## 3D-Drucke deinen Anhänger und baue ihn zusammen
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCAD 3D kann eine `.STL` Datei für den 3D-Druck exportieren.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Rendere dein Modell und klicke dann auf **Generieren STL**. Merke dir, wo du die STL-Datei speicherst.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+3D-Drucke deinen Anhänger mit einem Filament in der Farbe deiner Wahl.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+Entferne den 3D-Druck sehr vorsichtig vom Druckbett. Der Anhänger ist dünn, also ziemlich empfindlich.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+Möglicherweise musst du kleine Filamentstränge (insbesondere vom Aufhänger) entfernen, um den Druck zu säubern.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+Fädele den Anhänger auf eine Kette oder Schnur. Falls du eine dickere Schnur oder Halskette verwenden möchtest, kannst du das Design anpassen um einen größeren Aufhänger zu haben.
 
-![screenshot](images/pendant-printed.png)
+![Screenshot](images/pendant-printed.png)
 
 --- /task ---
