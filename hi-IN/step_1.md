@@ -1,4 +1,4 @@
-## Introduction
+## परिचय
 
 इस परियोजना में, आप एक 3D झुमका डिजाइन करने के लिए BlocksCAD का उपयोग करेंगे। The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
 
