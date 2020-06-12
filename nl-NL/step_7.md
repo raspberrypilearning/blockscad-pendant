@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## 3D print en monteer je hanger
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCAD 3D kan een `.STL` bestand voor 3D printen exporteren.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Klik op render en klik vervolgens op **Generate STL**. Onthoud waar je het STL-bestand opslaat.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+3D print je hanger met een filament in de kleur van je keuze.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+Verwijder heel voorzichtig de 3D-print van het printbed. De hanger is dun, dus vrij delicaat.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+Mogelijk moet je kleine draadjes (vooral van de ophangring) verwijderen om de print netjes te maken.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+Rijg de hanger aan een ketting of koord. Als je een dikker koord of ketting wilt gebruiken, dan kun je het ontwerp aanpassen om een grotere bevestigingsring te krijgen.
 
-![screenshot](images/pendant-printed.png)
+![schermafbeelding](images/pendant-printed.png)
 
 --- /task ---
