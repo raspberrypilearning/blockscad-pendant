@@ -1,41 +1,41 @@
-## Add a border
+## Voeg een rand toe
 
-Next, add a border around the edge of the design.
+Voeg vervolgens een ring toe om de rand van het ontwerp.
 
-![screenshot](images/pendant-border-show.png)
+![schermafbeelding](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+Maak een gecentreerde ring die de randen van het ontwerp raakt. Je kunt de wiskunde doen om uit te rekenen wat de straal van de cirkel moet zijn, of je kunt gewoon een cirkel maken en de straal wijzigen totdat het werkt. Beide benaderingen zijn prima!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+Gebruik het `union`{:class="blockscadsetops"} blok om de rand met de andere ringen te verbinden:
 
-![screenshot](images/pendant-union.png)
+![schermafbeelding](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+Gebruik de `cylinder` en `difference` blokken om de ring te maken.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+De zes ringen hebben elk een straal van 12 mm, dus de grenscilinder die je maakt moet groter zijn dan dat. Je kunt proberen de straal in te stellen op 24 mm.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+Om een ring te maken, moet de straal van de tweede `cylinder` in het `difference` blok 1 mm kleiner zijn dan de straal van de eerste `cylinder`.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+Pas de grootte van de `cylinders` aan tot de ring voor de rand precies de buitenranden van de zes andere ringen raakt.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+De straal moet ongeveer `20` zijn. (In de inleiding stond dat de voltooide hanger een diameter van 40 mm zal hebben!)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![schermafbeelding](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+Je kunt ook wiskunde gebruiken om de diameter te berekenen.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+De diameter van elke binnenring is 24 mm. Als de ringen elkaar in het midden van de hanger ontmoeten, moet de randring een straal van 24 mm hebben. Maar de binnenringen overlappen elkaar, omdat ze 5 mm langs de X- en Y-assen worden verplaatst.
+
+Dit verwijdert een stukje uit de straal. Deze stukje bevindt zich op de boog, 5 mm van de oorsprong, dus we weten dat we 5 mm van 24 mm moeten verwijderen. Dat betekent dat de binnenstraal van de randring 19 mm moet zijn.
+
+Wiskunde is echt handig als je nauwkeurig moet zijn. Maar het is prima om gewoon dingen te veranderen totdat je het resultaat krijgt dat je nodig hebt.
 
 --- /hint --- --- /hints --- --- /task ---
