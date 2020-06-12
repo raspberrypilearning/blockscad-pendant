@@ -30,7 +30,7 @@ title: ما الذي ستحتاج إليه
 
 ### البرمجيات
 
-+ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
@@ -39,7 +39,7 @@ title: ما الذي ستحتاج إليه
 title: ما الذي ستتعلمه
 ---
 
-+ كيفية استخدام حلقات تكرار `العد` لإنشاء أنماط هندسية
++ كيفية استخدام حلقات تكرار `العد ` لإنشاء أنماط هندسية
 + كيفية استخدام كتل `مختلف` لإنشاء الاطواق من الاسطوانات
 
 --- /collapse ---
