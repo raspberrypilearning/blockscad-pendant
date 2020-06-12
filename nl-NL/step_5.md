@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## Voeg een bevestigingsring toe
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+Voeg nu een kleine bevestigingsring toe waardoor je een koord kunt rijgen om een ketting te maken.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Tip: deze code voegt een kleine ring toe die kan worden gebruikt met elastische kettingdraad. Als je een groter koord of ketting hebt, kun je de code aanpassen om een grotere bevestigingsring te maken.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+Voeg een kleine bevestigingsring toe waar je een draad doorheen kunt steken.
 
-Click the `[+]` on the `union` block to add another section.
+Klik op de `[+]` op het `union` blok om nog een sectie toe te voegen.
 
-![screenshot](images/pendant-hang.png)
+![schermafbeelding](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+Op dit moment is de positie van de bevestigingsring visueel niet erg aantrekkelijk.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+Voeg een `rotate`{:class="blockscadtransforms"} blok toe om de binnenringen te verplaatsen, zodat de bevestigingsring gecentreerd is op een van de gaten ertussen.
 
-![screenshot](images/pendant-hang-rotate.png)
+![schermafbeelding](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
