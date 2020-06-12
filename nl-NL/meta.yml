@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: 3D-hanger
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: Ontwerp een hanger om 3D te printen en te dragen.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Create a hoop
+    title: Maak een ring
   - 
-    title: Add more hoops
+    title: Voeg meer ringen toe
   - 
-    title: Add a border
+    title: Voeg een rand toe
   - 
-    title: Add a hanging hoop
+    title: Voeg een bevestigingsring toe
   - 
-    title: "Challenge: Change the pendant"
+    title: "Uitdaging: verander de hanger"
   - 
-    title: 3D print and assemble your pendant
+    title: 3D print en monteer je hanger
