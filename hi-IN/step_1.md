@@ -2,19 +2,19 @@
 
 इस परियोजना में, आप एक 3D झुमका डिजाइन करने के लिए BlocksCAD का उपयोग करेंगे। The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD एक 3D मॉडल संपादक है जिसे आप डेस्कटॉप कंप्यूटर या टैबलेट पर वेब ब्राउज़र में उपयोग कर सकते हैं। आप 3D मॉडल डिज़ाइन करने के लिए कोड ब्लॉक को ड्रैग और ड्रॉप करते हैं जिन्हें 3D प्रिंटिंग के लिए निर्यात किया जा सकता है।
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+यदि आपके पास एक 3D प्रिंटर है, तो आप अपने द्वारा डिज़ाइन किए गए झुमके को प्रिंट कर सकते हैं। यह झुमका छोटा है और केवल थोड़े से फिलामेंट का उपयोग करता है, और यह 3D प्रिंट के लिए त्वरित है।
 
-### What you will make
+### आप क्या बनाएँगे
 
-The finished pendant looks like this:
+पूरा हुआ झुमका इस तरह दिखता है:
 
 ![screenshot](images/pendant-finished.png)
 
-The pendant has a hoop on top so that you can put it on a necklace or cord.
+झुमका के ऊपर एक घेरा होता है ताकि आप इसे एक हार या कॉर्ड में लगा सके।
 
-The pendant has a diameter of 40mm, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+झुमका का व्यास 40mm है, साथ ही लटकाने के लिए घेरा। यह 2mm मोटी है, इसलिए यह बहुत जल्दी 3D प्रिंट करेगा।
 
 After this project, you’ll also be able to code your own design and create a custom pendant.
 
