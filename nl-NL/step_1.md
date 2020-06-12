@@ -1,56 +1,56 @@
-## Introduction
+## Inleiding
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+In dit project gebruik je BlocksCAD om een 3D-hanger te ontwerpen. De hanger maakt gebruik van een geometrisch ontwerp gebaseerd op de 'Bloem van het leven', een ontwerp dat veel voorkomt in historische kunst.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD is een 3D-modeleditor die je kunt gebruiken in een webbrowser op een computer of tablet. Je sleept codeblokken en zet ze neer om 3D-modellen te ontwerpen die kunnen worden geëxporteerd voor 3D-printen.
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+Als je toegang hebt tot een 3D-printer, dan kun je jouw hanger printen. De hanger is klein en gebruikt slechts een klein beetje filament en is snel 3D te printen.
 
-### What you will make
+### Wat ga je maken
 
-The finished pendant looks like this:
+De voltooide hanger ziet er als volgt uit:
 
-![screenshot](images/pendant-finished.png)
+![schermafbeelding](images/pendant-finished.png)
 
-The pendant has a hoop on top so that you can put it on a necklace or cord.
+De hanger heeft een ringetje aan de bovenkant zodat je hem aan een ketting of koord kunt hangen.
 
-The pendant has a diameter of 40mm, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+De hanger heeft een diameter van 40 mm, plus het ringetje om op te hangen. Het is 2 mm dik, dus het zal vrij snel 3D printen.
 
-After this project, you’ll also be able to code your own design and create a custom pendant.
+Na dit project kun je ook je eigen ontwerp coderen en je eigen hanger maken.
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ A necklace or cord to hang the pendant on
++ Een 3D-printer en filament in een kleur naar keuze
++ Een ketting of koord om de hanger aan op te hangen
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ Dit project kan worden voltooid in een webbrowser met BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-+ How to use `count` loops to create geometric patterns
-+ How to use `difference` blocks to create hoops from cylinders
++ Hoe gebruik je `count` lussen om geometrische patronen te maken
++ Hoe je `difference` blokken gebruikt om ringen van cilinders te maken
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+Download de voltooide projectcode op: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
