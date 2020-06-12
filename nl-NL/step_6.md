@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## Uitdaging: verander de hanger
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+Het ontwerp is beïnvloed door het 'Bloem van het leven'-patroon. Als je wilt, kun je de 'Bloem van het leven' onderzoeken en kijken of je een ontwerp kunt maken op basis van het 'Zaad van het leven'-patroon.
 
-![screenshot](images/pendant-seed-of-life.png)
+![schermafbeelding](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+Experimenteer en verander enkele waarden in je hanger. Wijzig bijvoorbeeld het aantal ringen of de rotatie.
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+Je kunt ook proberen om cuboids (kubussen) te gebruiken in plaats van cilinders om een patroon te maken.
 
-![screenshot](images/pendant-challenge.png)
+![schermafbeelding](images/pendant-challenge.png)
 
 --- /challenge ---
 
