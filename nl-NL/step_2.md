@@ -1,32 +1,32 @@
-## Create a hoop
+## Maak een ring
 
-The design uses six interlocking hoops in the centre, and a larger hoop around the outside. The pendant is 4cm wide, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+Het ontwerp maakt gebruik van zes in elkaar grijpende ringen in het midden en een grotere ring aan de buitenkant. De hanger is 4 cm breed, plus de ring om op te hangen. Het is 2 mm dik, dus het zal vrij snel 3D printen.
 
-First, make a single inner hoop.
+Maak eerst een enkele binnenring.
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Open de BlocksCAD-editor in een webbrowser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
-
---- /task --- --- task ---
-
-Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
-
-![screenshot](images/pendant-cylinder.png)
-
-`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
-
-Click on the **Render** button after each change to your code to see the results.
+Je kunt blokken slepen en neerzetten om code te schrijven om 3D-objecten te maken.
 
 --- /task --- --- task ---
 
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+Maak een `cylinder` met een straal van `12` en een hoogte van `2` (de eenheid hier is millimeters).
 
-![screenshot](images/pendant-hoop.png)
+![schermafbeelding](images/pendant-cylinder.png)
 
-If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.
+`Cilinders` worden automatisch gecentreerd langs de X- en Y-assen. Selecteer `not centered` (niet gecentreerd) zodat de hanger op het oppervlak zit. (Dit betekent dat de waarde van de Z-as groter is dan 0).
+
+Klik op de **Render** knop na elke wijziging in je code om de resultaten te zien.
+
+--- /task --- --- task ---
+
+Gebruik nu `difference`{:class="blockscadsetops"} (verschil) om een kleinere `cylinder` uit het midden te verwijderen. Dit creëert een ring:
+
+![schermafbeelding](images/pendant-hoop.png)
+
+Als je wilt, kun je op het gekleurde vierkant klikken om de kleur in de viewer te veranderen. Dit heeft geen invloed op de kleur van je hanger, want die hangt af van de kleur van het filament dat je gebruikt.
 
 --- /task ---
 	
