@@ -1,44 +1,44 @@
-## Add more hoops
+## もっと輪を作る
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+このデザインでは、6つの交差する輪を使用し、それぞれの輪は中心から外に移動してちがう角度で回転します。
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+最終的 (さいしゅうてき) なデザインでは、中央には輪はありません。輪はすべて中心から移動 (いどう) します。
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+まず、はじめに作った輪を`移動`{:class="blockscadtransforms"} (動か)します。
 
-![screenshot](images/pendant-translate.png)
+![スクリーンショット](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
-
---- /task --- --- task ---
-
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
-
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
-
-![screenshot](images/pendant-3-hoops.png)
-
-Look at the code and make sure you understand how it works.
+これで輪は少し中心からはずれました。
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+この輪を中心のまわりに回転させてコピーします。 まず、3つの輪を同じ間隔 (かんかく) で作成します。
+
+`カウント`{:class="blockscadloops"}ループを追加 (ついか) して、3つの輪を作成します。 輪の間隔をあけるには、`カウント`ループと`移動`ブロックの間に`回転`{:class = "blockscadtransforms"}ブロックを追加します。 `カウント`は、`i`変数 (へんすう) を1から3に設定します。 `回転`は `120 × i`度だけそれぞれの輪を移動させます。つまり、3つの輪は円の360度の周りに等しく配置されます(360÷3=120)。
+
+![スクリーンショット](images/pendant-3-hoops.png)
+
+コードを見て、その仕組みをりかいしましょう。
+
+--- /task --- --- task ---
+
+最終的なデザインには3つではなく6つの輪があります。 同じ間隔の6つのフープを作成するようにコードをかえます。
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+`カウント`{:class="blockscadloops"}ループを3回ではなく6回実行するようにかえます。 6つのフープは、360度で同じ間隔で配置する必要があります。
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+ループが1から6の間実行され、60度（360÷6 = 60）の倍数ずつ移動するようにかえる必要が あります。
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+コードは次のようになります。
 
-![screenshot](images/pendant-6-hoops.png)
+![スクリーンショット](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
