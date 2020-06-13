@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: 3D झुमका
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: एक 3D झुमके का डिजाइन बनाइए और उसे प्रिंट करके पहने।
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -21,6 +21,6 @@ steps:
   - 
     title: एक लटका हुआ घेरा जोड़ें
   - 
-    title: "Challenge: Change the pendant"
+    title: "चुनौती: झुमके को बदलें"
   - 
-    title: 3D print and assemble your pendant
+    title: अपने झुमके को 3D प्रिंट करें और जोड़ें
