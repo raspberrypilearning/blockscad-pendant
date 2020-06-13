@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## एक लटका हुआ घेरा जोड़ें
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+अब, एक छोटा सा लटका हुआ घेरा जोड़ें, जिसके माध्यम से आप एक हार बनाने के लिए धागा जोड़ सकते हैं।
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Tip: यह कोड एक छोटा घेरा जोड़ता है जिसका उपयोग लोचदार माला धागे के साथ किया जा सकता है। यदि आपके पास एक बड़ा कॉर्ड या चेन है, तो आप कोड को बड़े हैंगिंग हूप बनाने के लिए अनुकूलित कर सकते हैं।
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+एक छोटा लटका हुआ घेरा जोड़ें जिसे आप एक धागा डाल सकते हैं।
 
-Click the `[+]` on the `union` block to add another section.
+किसी अन्य अनुभाग को जोड़ने के लिए `union` ब्लॉक के ऊपर `[+]` पर क्लिक करें।
 
-![screenshot](images/pendant-hang.png)
+![स्क्रीनशॉट](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+फिलहाल, लटके हुए घेरे की स्थिति बहुत अच्छी नहीं दिख है।
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+भीतरी घेरों को खिसकाने के लिए `rotate`{:class="blockscadtransforms"} ब्लॉक को जोड़ें ताकि लटका हुआ घेरा उन दोनों की बीच की जगह में केंद्रित हो जाए।
 
-![screenshot](images/pendant-hang-rotate.png)
+![स्क्रीनशॉट](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
