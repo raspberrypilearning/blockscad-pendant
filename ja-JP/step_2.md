@@ -1,32 +1,32 @@
-## Create a hoop
+## 輪 (わ) を作る
 
-The design uses six interlocking hoops in the centre, and a larger hoop around the outside. The pendant is 4cm wide, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+このデザインでは、中央で重なり合った6つの輪と、外がわに大きな輪を使用しています。 ペンダントトップの幅 (はば)は4cm (つり下げ用のわっかをのぞく) です。 厚さ (あつさ) は2mmなので、3Dプリントもすぐにおわります。
 
-First, make a single inner hoop.
+まず、内がわの輪を1つ作ります。
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+ウェブブラウザでBlocksCADエディターを開きます。 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
-You can drag and drop blocks to write code to create 3D objects.
-
---- /task --- --- task ---
-
-Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
-
-![screenshot](images/pendant-cylinder.png)
-
-`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
-
-Click on the **Render** button after each change to your code to see the results.
+ブロックをドラッグ&ドロップして、3Dオブジェクトを作成するコードを書くことができます。
 
 --- /task --- --- task ---
 
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+半径`12`、高さ`2`の`円柱`を作成します (ここでの単位はミリメートルです)。
 
-![screenshot](images/pendant-hoop.png)
+![スクリーンショット](images/pendant-cylinder.png)
 
-If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.
+`円柱`は X軸 (じく) とY軸にそって自動的に中央に配置 (はいち) されます。 `原点`をえらんでペンダントトップが表面に配置されるようにします。 （これは、Z軸の値 (あたい) が0より大きいことを意味します）。
+
+コードをかえるたびに**レンダリング**ボタンをクリックして結果を見ましょう。
+
+--- /task --- --- task ---
+
+次に、`差`{:class="blockscadsetops"} (さ) を使用して、中央から小さい`円柱`を取りのぞきます。 これで輪ができます。
+
+![スクリーンショット](images/pendant-hoop.png)
+
+色のついた四角い部分をクリックすると、ビューアで使用する色をかえることもできます。 ここで色をかえても、実物のペンダントトップの色はかわりません。ペンダントの色は使用するフィラメントの色で決まるからです。
 
 --- /task ---
 	
