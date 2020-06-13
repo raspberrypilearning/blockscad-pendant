@@ -2,23 +2,23 @@
 
 次に、ペンダント用のひもを通せる小さなわっかを追加します。
 
-(ヒント) このコードでは、伸縮性 (しんしゅくせい) のあるネックレス用の糸を通すことができる、小さな輪を追加しています。 If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+(ヒント) このコードでは、伸縮性 (しんしゅくせい) のあるネックレス用の糸を通すことができる、小さな輪を追加します。 もっと太いひもやチェーンを使う場合は、コードをかえてもっと大きなつり下げ用のわっかを作ることもできます。
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+糸を通すことができる、小さなつり下げ用のわっかを追加します。
 
-Click the `[+]` on the `union` block to add another section.
+`和` ブロックにある `+` をクリックして、もう1つセクションを追加します。
 
-![screenshot](images/pendant-hang.png)
+![スクリーンショット](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+今のところ、つり下げ用のわっかの場所はあまり見ばえが良くありません。
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+`回転`{:class = "blockscadtransforms"}ブロックを使用して内がわの輪を移動し、つり下げ用のわっかが内側の輪同士のすきまの中央に来るようにします。
 
-![screenshot](images/pendant-hang-rotate.png)
+![スクリーンショット](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
