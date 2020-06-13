@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## अपने झुमके को 3D प्रिंट करें और जोड़ें
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCAD 3D, 3D प्रिंटिंग के लिए `.STL` फ़ाइल निर्यात कर सकता है।
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+अपना मॉडल रेंडर (render) करें और फिर **Generate STL** पर क्लिक करें। याद रखें कि आप STL file को कहाँ save करते हैं।
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+अपनी पसंद के रंग के एक फिलामेंट का उपयोग करके अपने झुमका को 3D प्रिंट करें।
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+बहुत सावधानी से प्रिंट बेड से 3 डी प्रिंट निकालें। झुमका पतला है, इसलिए यह काफी नाजुक है।
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+आपको प्रिंट को साफ करने के लिए फिलामेंट (विशेष रूप से लटके घेरे से) के छोटे किस्में निकालने की आवश्यकता हो सकती है।
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+एक श्रृंखला या कॉर्ड को झुमके से जोड़ें। यदि आप एक मोटी रस्सी या हार का उपयोग करना चाहते हैं, तो आप डिजाइन को बड़ा लटका हुआ घेरे के अनुसार समायोजित कर सकते हैं।
 
-![screenshot](images/pendant-printed.png)
+![स्क्रीनशॉट](images/pendant-printed.png)
 
 --- /task ---
