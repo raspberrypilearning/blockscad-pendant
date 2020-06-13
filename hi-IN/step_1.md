@@ -10,47 +10,47 @@ BlocksCAD एक 3D मॉडल संपादक है जिसे आप �
 
 पूरा हुआ झुमका इस तरह दिखता है:
 
-![screenshot](images/pendant-finished.png)
+![स्क्रीनशॉट](images/pendant-finished.png)
 
 झुमका के ऊपर एक घेरा होता है ताकि आप इसे एक हार या कॉर्ड में लगा सके।
 
 झुमका का व्यास 40mm है, साथ ही लटकाने के लिए घेरा। यह 2mm मोटी है, इसलिए यह बहुत जल्दी 3D प्रिंट करेगा।
 
-After this project, you’ll also be able to code your own design and create a custom pendant.
+इस परियोजना के बाद, आप अपने स्वयं के डिज़ाइन को कोड करने और एक कस्टम झुमका बनाने में भी सक्षम होंगे।
 
 --- collapse ---
 ---
-title: What you will need
+title: आपको किन चीजों की आवश्यकता होगी
 ---
 
-### Hardware
+### हार्डवेयर
 
-+ A 3D printer, and filament in a colour of your choice
-+ A necklace or cord to hang the pendant on
++ एक 3D प्रिंटर, और अपनी पसंदिता रंग का फिलामेंट (filament)
++ झुमका को लटकाने के लिए एक हार या नाल
 
-### Software
+### सॉफ्टवेयर
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ यह प्रोजेक्ट BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"} का उपयोग करके एक वेब ब्राउज़र (web browser) में पूरा किया जा सकता है
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-+ How to use `count` loops to create geometric patterns
-+ How to use `difference` blocks to create hoops from cylinders
++ ज्यामितीय (जियोमेट्रिक) पैटर्न बनाने के लिए `count` लूप का कैसे प्रयोग करें
++ सिलेंडर से घेरे बनाने के लिए `difference` ब्लॉक का उपयोग कैसे करें
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"} का उपयोग करें।
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+तैयार किया हुआ प्रोजेक्ट कोड को [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant) पर डाउनलोड करें।
 
 --- /collapse ---
