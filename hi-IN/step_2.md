@@ -1,32 +1,32 @@
-## Create a hoop
+## एक घेरा बनाएँ
 
-The design uses six interlocking hoops in the centre, and a larger hoop around the outside. The pendant is 4cm wide, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+The design uses six interlocking hoops in the centre, and a larger hoop around the outside. झुमका का व्यास 4cm है, साथ ही लटकना के लिए घेरा। यह 2mm मोटी है, इसलिए यह बहुत जल्दी 3D प्रिंट करेगा।
 
-First, make a single inner hoop.
+सबसे पहले, एक आंतरिक घेरा बनाएं।
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+BlocksCAD editor को वेब ब्राउज़र (web browser) में खोलें [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
-
---- /task --- --- task ---
-
-Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
-
-![screenshot](images/pendant-cylinder.png)
-
-`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
-
-Click on the **Render** button after each change to your code to see the results.
+3D चीज़ों को बनाने के लिए कोड लिखने के लिए आप ब्लॉक को ड्रैग और ड्रॉप कर सकते हैं।
 
 --- /task --- --- task ---
 
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+एक `cylinder` बनाएं जिसका त्रिज्या `12` है और ऊंचाई `2` है (यहां इकाई mm है)।
 
-![screenshot](images/pendant-hoop.png)
+![स्क्रीनशॉट](images/pendant-cylinder.png)
 
-If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.
+`Cylinders` are automatically centred along the X and Y axes. `not centered` को चुनें ताकि झुमका सतह पर बैठ जाए। (इसका अर्थ है कि Z- अक्ष का मान 0 से बड़ा है)।
+
+परिणाम देखने के लिए अपने कोड में प्रत्येक परिवर्तन के बाद **Render** बटन पर क्लिक करें।
+
+--- /task --- --- task ---
+
+अब, केंद्र से एक छोटा `cylinder` निकालने के लिए `difference`{:class="blockscadsetops"} का उपयोग करें। यह एक घेरा बनाता है:
+
+![स्क्रीनशॉट](images/pendant-hoop.png)
+
+यदि आप चाहें, तो आप viewer में उपयोग किए जाने वाले रंग को बदलने के लिए रंगीन वर्ग पर क्लिक कर सकते हैं। यह आपके झुमका के रंग को प्रभावित नहीं करता है, क्योंकि यह आपके द्वारा उपयोग किए जाने वाले फिलामेंट के रंग पर निर्भर करता है।
 
 --- /task ---
 	
