@@ -1,12 +1,12 @@
-## Add more hoops
+## अधिक घेरा जोड़ें
 
 The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+अंतिम डिजाइन में, कोई केंद्रीय घेरा नहीं है: हुप्स सभी केंद्र से बाहर चले गए हैं।
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+सबसे पहले, पहले घेरे को उसके स्थान पर `translate`{:class="blockscadtransforms"} (move) हिलाएं।
 
 ![screenshot](images/pendant-translate.png)
 
@@ -14,7 +14,7 @@ Now the hoop is a little off-centre.
 
 --- /task --- --- task ---
 
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
+आपको केंद्र के चारों ओर घुमाए गए इस घेरा की कई प्रतियाँ चाहिए। सबसे पहले, तीन समान रूप से बनाए गए हुप्स बनाएं:
 
 Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
 
