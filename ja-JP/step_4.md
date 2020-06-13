@@ -1,12 +1,12 @@
-## Add a border
+## 外わくを作る
 
-Next, add a border around the edge of the design.
+次に、デザインのはしの周りに外わくを追加します。
 
-![screenshot](images/pendant-border-show.png)
+![スクリーンショット](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+デザインのはしにせっする、中心原点となる輪を作成します。 円の半径を計算することもできますし、円を作成して半径をかえることもできます。 どちらの方法でも構いません。
 
 Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
 
