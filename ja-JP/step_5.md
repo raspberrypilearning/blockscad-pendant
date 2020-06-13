@@ -1,8 +1,8 @@
-## Add a hanging hoop
+## つり下げ用のわっかを作る
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+次に、ペンダント用のひもを通せる小さなわっかを追加します。
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+(ヒント) このコードでは、伸縮性 (しんしゅくせい) のあるネックレス用の糸を通すことができる、小さな輪を追加しています。 If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
 
 --- task ---
 
