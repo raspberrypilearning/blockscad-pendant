@@ -1,6 +1,6 @@
 ## अधिक घेरा जोड़ें
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+डिज़ाइन में छह इंटरसेक्टिंग घेरें का उपयोग किया गया है, और प्रत्येक को केंद्र से बाहर ले जाया जाता है और अलग-अलग संख्या में डिग्री से घुमाया जाता है।
 
 --- task ---
 
@@ -10,13 +10,13 @@ The design uses six intersecting hoops, and each hoop is moved out from the cent
 
 ![स्क्रीनशॉट](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
+अब घेरा केंद्र से थोड़ा बाहर है।
 
 --- /task --- --- task ---
 
 आपको केंद्र के चारों ओर घुमाए गए इस घेरा की कई प्रतियाँ चाहिए। सबसे पहले, तीन समान रूप से बनाए गए हुप्स बनाएं:
 
-तीन हूप बनाने के लिए `count`{:class="blockscadloops"} लूप जोड़ें। हूप के बीच जगह रखने के लिए `rotate`{:class="blockscadtransforms"} ब्लॉक को `count` लूप और `translate` ब्लॉक के बीच जोड़ें। `Count` sets the `i` variable from 1 to 3. `Rotate` प्रत्येक घेरे को `120 × i</ 0> डिग्री से स्थानांतरित करता है, इससे तीन हूप एक सर्कल के 360 डिग्री (360/3 = 120) के आसपास समान रूप से वितरित किए जाते हैं।</p>
+तीन हूप बनाने के लिए `count`{:class="blockscadloops"} लूप जोड़ें। हूप के बीच जगह रखने के लिए `rotate`{:class="blockscadtransforms"} ब्लॉक को `count` लूप और `translate` ब्लॉक के बीच जोड़ें। `Count` लूप `i` वेरियबल को 1 से 3 सेट करता है। `Rotate` प्रत्येक घेरे को `120 × i</ 0> डिग्री से स्थानांतरित करता है, इससे तीन हूप एक सर्कल के 360 डिग्री (360/3 = 120) के आसपास समान रूप से वितरित किए जाते हैं।</p>
 
 <p spaces-before="0"><img src="images/pendant-3-hoops.png" alt="स्क्रीनशॉट" /> </p>
 
