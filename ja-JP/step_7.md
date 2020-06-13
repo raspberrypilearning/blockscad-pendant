@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## ペンダントトップを3Dプリントして組み立てる
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCADは3Dプリント用の`.STL`ファイルをエクスポートできます。
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+モデルをレンダリングし、**ファイルを作成 STL**をクリックします。 STLファイルを保存する場所をおぼえておきましょう。
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+好きな色のフィラメントを使ってペンダントトップを3Dプリントします。
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+3Dプリントが終わったら、プリントベッドからしんちょうに取りはずします。 ペンダントトップはうすいので、こわれやすいです。
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+3Dプリントしたものをきれいにするには、フィラメントの小さな糸くずを（特につり下げ用の輪）を取りのぞかなければならない場合があります。
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+ペンダントにチェーンまたはひもを通します。 もっと太いひもやチェーンを使う場合は、デザインを調整してつり下げ用の輪を大きくしましょう。
 
-![screenshot](images/pendant-printed.png)
+![スクリーンショット](images/pendant-printed.png)
 
 --- /task ---
