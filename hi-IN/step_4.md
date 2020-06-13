@@ -1,41 +1,41 @@
-## Add a border
+## एक सीमा जोड़ें
 
-Next, add a border around the edge of the design.
+अगला, डिज़ाइन के किनारे के चारों ओर एक सीमा जोड़ें।
 
-![screenshot](images/pendant-border-show.png)
+![स्क्रीनशॉट](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+एक केंद्रित घेरा बनाएं जो डिज़ाइन के किनारों को छूता है। You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. दोनों में से कोई भी आप प्रयोग कर सकते है!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+`union`{:class="blockcadsetops"} ब्लॉक का उपयोग करके आप आकृतियों को एक साथ जोड़ सकते हैं:
 
-![screenshot](images/pendant-union.png)
+![स्क्रीनशॉट](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+घेरा बनाने के लिए `cylinder` और `difference` ब्लॉकों का उपयोग करें।
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+छह घेरे में प्रत्येक का रेडियस 12mm है, इसलिए सीमा सिलेंडर जो आप बना रहे हैं, उससे बड़ा होना चाहिए। You could try setting the radius to 24mm.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+एक घेरा बनाने के लिए, `difference` ब्लॉक के दूसरे `cylinder` का रेडियस, पहले `cylinder` के रेडियस से 1mm से छोटा होना चाहिए।
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+`cylinders` के आकार को बदलें जब तक कि सीमा घेरा सिर्फ छह आंतरिक घेरे के बाहरी किनारों को छूता है।
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+रेडियस लगभग `20` होना चाहिए। (परिचय में, यह कहा गया कि तैयार झुमका व्यास में 40 मिमी होगी!)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![स्क्रीनशॉट](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+व्यास का काम करने के लिए आप गणित का भी उपयोग कर सकते हैं।
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+प्रत्येक आंतरिक घेरा का व्यास 24mm है। यदि घेरा, झुमका के केंद्र में मिलता है, तो सीमा घेरा को 24mm की रेडियस की आवश्यकता होगी। लेकिन आंतरिक घेरे ओवरलैप करते हैं, क्योंकि उन्हें x और y अक्षों के साथ 5mm से खिसकाया गया है।
+
+यह रेडियस से एक खंड निकालता है। यह खंड आर्क पर है, मूल से 5mm, इसलिए हम जानते हैं कि हमें 24mm से 5mm निकालने की आवश्यकता है। इसका मतलब है कि सीमा घेरा का आंतरिक रेडियस 19mm होना चाहिए।
+
+गणित वास्तव में उपयोगी है जब आपको सटीक होने की आवश्यकता होती है। लेकिन जब तक आपको अपनी जरूरत का परिणाम न मिले तब तक चीजों को बदलना ठीक है।
 
 --- /hint --- --- /hints --- --- /task ---
