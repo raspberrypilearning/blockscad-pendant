@@ -8,7 +8,7 @@ The design uses six intersecting hoops, and each hoop is moved out from the cent
 
 सबसे पहले, पहले घेरे को उसके स्थान पर `translate`{:class="blockscadtransforms"} (move) हिलाएं।
 
-![screenshot](images/pendant-translate.png)
+![स्क्रीनशॉट](images/pendant-translate.png)
 
 Now the hoop is a little off-centre.
 
@@ -16,29 +16,31 @@ Now the hoop is a little off-centre.
 
 आपको केंद्र के चारों ओर घुमाए गए इस घेरा की कई प्रतियाँ चाहिए। सबसे पहले, तीन समान रूप से बनाए गए हुप्स बनाएं:
 
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
+तीन हूप बनाने के लिए `count`{:class="blockscadloops"} लूप जोड़ें। हूप के बीच जगह रखने के लिए `rotate`{:class="blockscadtransforms"} ब्लॉक को `count` लूप और `translate` ब्लॉक के बीच जोड़ें। `Count` sets the `i` variable from 1 to 3. `Rotate` प्रत्येक घेरे को `120 × i</ 0> डिग्री से स्थानांतरित करता है, इससे तीन हूप एक सर्कल के 360 डिग्री (360/3 = 120) के आसपास समान रूप से वितरित किए जाते हैं।</p>
 
-![screenshot](images/pendant-3-hoops.png)
+<p spaces-before="0"><img src="images/pendant-3-hoops.png" alt="स्क्रीनशॉट" /> </p>
 
-Look at the code and make sure you understand how it works.
+<p spaces-before="0">कोड को देखें और सुनिश्चित करें कि आप समझते हैं कि यह कैसे काम करता है। </p>
 
---- /task --- --- task ---
+<p spaces-before="0">--- /task ---
+--- task ---</p>
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+<p spaces-before="0">तैयार डिज़ाइन में तीन के बजाय छह घेरे हैं। अपने कोड को बदलें ताकि यह छह समान रूप से स्थानबद्ध घेरे बनाए।</p>
 
---- hints --- --- hint ---
+<p spaces-before="0">--- hints ---
+--- hint ---</p>
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
-
---- /hint --- --- hint ---
-
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+<p spaces-before="0"><code>count`{:class="blockscadloops"} लूप को बदलें ताकि यह तीन के बजाय छह बार चले। छह हुप्स को समान रूप से 360 डिग्री के आसपास रखने की आवश्यकता होगी।
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+आपको 1 से 6 तक चलने के लिए लूप को बदलने होगा और 60 डिग्री (360/6 = 60) के गुणकों में स्थानांतरित करने की आवश्यकता होगी:
 
-![screenshot](images/pendant-6-hoops.png)
+--- /hint --- --- hint ---
+
+आपका कोड इस प्रकार दिखना चाहिए:
+
+![स्क्रीनशॉट](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
