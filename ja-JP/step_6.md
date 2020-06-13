@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## チャレンジ: ペンダントトップをかえる
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+このデザインは「フラワー・オブ・ライフ」パターンの影響 (えいきょう) を受けています。 If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
 
-![screenshot](images/pendant-seed-of-life.png)
+![スクリーンショット](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+ペンダントトップのコードの値をかえてみましょう。 たとえば、輪の数や回転角度をかえることができます。
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+また、円柱の代わりに立方体 (キューブ) を使ってパターンを作成することもできます。
 
-![screenshot](images/pendant-challenge.png)
+![スクリーンショット](images/pendant-challenge.png)
 
 --- /challenge ---
 
