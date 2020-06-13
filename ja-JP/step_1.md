@@ -1,42 +1,42 @@
-## Introduction
+## はじめに
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+このプロジェクトでは、BlocksCADを使用して3Dペンダントを設計 (せっけい) します。 このペンダントは、古い美術品 (びじゅつひん) によく見られる「フラワー・オブ・ライフ」(生命の花) をモチーフにした幾何学的 (きかがくてき) なデザインを使用しています。
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCADは、デスクトップコンピューターやタブレットのウェブブラウザで使用できる3D モデルエディターです。 コードブロックをドラッグ&ドロップして、3Dプリント用にエクスポートできる3Dモデルを設計します。
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+3Dプリンターが使える場合は、ペンダントを3Dプリントできます。 このペンダントは小さくフィラメントをほんの少ししか使わないので、速く3Dプリントできます。
 
-### What you will make
+### 作るもの
 
-The finished pendant looks like this:
+完成 (かんせい) したペンダントはこのようになります。
 
-![screenshot](images/pendant-finished.png)
+![スクリーンショット](images/pendant-finished.png)
 
-The pendant has a hoop on top so that you can put it on a necklace or cord.
+ペンダントの上部にはわっかがついているので、チェーンやひもをつけることができます。
 
-The pendant has a diameter of 40mm, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+ペンダントの直径 (ちょっけい) は40mm (つり下げ用のわっかをのぞく) です。 厚さ (あつさ) は2mmなので、3Dプリントもすぐにおわります。
 
-After this project, you’ll also be able to code your own design and create a custom pendant.
+このプロジェクトがおわったら、自分だけのデザインをコーディングしてオリジナルのペンダントを作ることもできるようになります。
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要 (ひつよう) なもの
 ---
 
-### Hardware
+### ハードウェア
 
-+ A 3D printer, and filament in a colour of your choice
-+ A necklace or cord to hang the pendant on
++ 3Dプリンター、好きな色のフィラメント
++ ペンダント用のチェーンまたはひも
 
-### Software
+### ソフトウェア
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ このプロジェクトは、 BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}を使用してウェブブラウザ上で完成させることができます。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 学ぶこと
 ---
 
 + How to use `count` loops to create geometric patterns
@@ -46,11 +46,11 @@ title: What you will learn
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 教育者向けの追加情報
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_ blank"}を使用してください。
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+完成したプロジェクトコードは [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant)からダウンロードできます。
 
 --- /collapse ---
