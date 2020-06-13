@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## चुनौती: झुमके को बदलें
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+डिजाइन 'फ्लावर ऑफ लाइफ' पैटर्न से प्रभावित है। यदि आप चाहें, तो आप 'फ्लावर ऑफ लाइफ' पर शोध कर सकते हैं और देख सकते हैं कि क्या आप 'सीड ऑफ लाइफ' पैटर्न के आधार पर डिजाइन बना सकते हैं।
 
-![screenshot](images/pendant-seed-of-life.png)
+![स्क्रीनशॉट](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+प्रयोग करें और अपने झुमके में कुछ मान बदलें। उदाहरण के लिए, घेरों की संख्या, या रोटेशन को बदलें।
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+आप पैटर्न बनाने के लिए सिलेंडरों के बजाय क्यूबॉइड्स (क्यूब्स) का उपयोग करने का भी प्रयास कर सकते हैं।
 
-![screenshot](images/pendant-challenge.png)
+![स्क्रीनशॉट](images/pendant-challenge.png)
 
 --- /challenge ---
 
