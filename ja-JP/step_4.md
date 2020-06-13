@@ -8,34 +8,34 @@
 
 デザインのはしにせっする、中心原点となる輪を作成します。 円の半径を計算することもできますし、円を作成して半径をかえることもできます。 どちらの方法でも構いません。
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+`和`{:class="blockscadsetops"}ブロックを使用して、外わくと他の輪をくっつけます。
 
-![screenshot](images/pendant-union.png)
+![スクリーンショット](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+`円柱`と`差`ブロックを使用して、輪を作ります。
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+6つの輪はそれぞれ半径が12mmなので、作っている外わくの円柱は6つの輪よりも大きくなければなりません。 半径を24mmにしてみてください。
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+輪を作成するには、`差`ブロックの2番目の`円柱`の半径は、はじめの`円柱` の半径より1mm小さくなければなりません。
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+6つの輪のはしが外わくにちょうど接触 (せっしょく) まで`円柱`のサイズを調整します。
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+半径はおよそ`20`になるはずです。 （「はじめに」では、完成したペンダントは直径40mmになると言ってました。)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![スクリーンショット](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+直径を計算することもできます。
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+内がわの輪の直径は24mmです。 輪がペンダントの中央で接触する場合、外わくの輪は24mmの半径である必要があります。 しかし、内がわの輪はX軸とY軸にそって5mm移動しているので重なり合っています。
+
+なので、その分だけ半径が小さくなります。 それは、原点から5mmずれた円弧 (えんこ) 上にあるため、24mmから5mmを差し引く必要があることがわかります。 これは、外わくの輪の内がわ半径が19mmであることを意味します。
+
+正確 (せいかく) さが必要なとき、数学は本当に役に立ちます。 しかし、必要な結果が出るまでかえていくだけでもかまいません。
 
 --- /hint --- --- /hints --- --- /task ---
