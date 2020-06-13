@@ -39,8 +39,8 @@ title: 必要 (ひつよう) なもの
 title: 学ぶこと
 ---
 
-+ How to use `count` loops to create geometric patterns
-+ How to use `difference` blocks to create hoops from cylinders
++ `カウント`ループを使って幾何学模様 (もよう) を作る方法
++ `差` (さ) ブロックを使って円柱から輪 (わ) を作る方法
 
 --- /collapse ---
 
