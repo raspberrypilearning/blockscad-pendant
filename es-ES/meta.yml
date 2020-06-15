@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: Colgante 3D
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: Diseña un colgante para imprimir en 3D y llevarlo puesto.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Create a hoop
+    title: Crea un aro
   - 
-    title: Add more hoops
+    title: Añade más aros
   - 
-    title: Add a border
+    title: Agrega un borde
   - 
-    title: Add a hanging hoop
+    title: Agrega un aro para colgar
   - 
-    title: "Challenge: Change the pendant"
+    title: "Desafío: Cambia el colgante"
   - 
-    title: 3D print and assemble your pendant
+    title: Imprime en 3D y monta tu colgante
