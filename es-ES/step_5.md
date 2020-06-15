@@ -1,24 +1,24 @@
-## Add a hanging hoop
+## Agrega un aro para colgar
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+Ahora, añade un pequeño aro que hará de colgante a través del cual puedas pasar un cordón para hacer un collar.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Sugerencia: Este código añade un aro pequeño que se puede utilizar con el hilo del collar elástico. Si tienes un cordón o cadena más grande, puedes adaptar el código para crear un aro de colgante más grande.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+Agrega un aro colgante pequeño por el que pueda pasar un hilo.
 
-Click the `[+]` on the `union` block to add another section.
+Haz clic en `+` en la parte superior del bloque `unión` para añadir otra sección.
 
-![screenshot](images/pendant-hang.png)
+![captura de pantalla](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+Por el momento, la posición del aro colgante no es visualmente muy agradable.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+Añade un bloque `rotar`{:class="blockscadtransforms"} para mover los aros interiores de modo que el aro colgante se centre sobre uno de los huecos que hay entre ellos.
 
-![screenshot](images/pendant-hang-rotate.png)
+![captura de pantalla](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
