@@ -1,44 +1,44 @@
-## Add more hoops
+## Añade más aros
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+El diseño usa seis aros entrelazados y cada uno se mueve desde el centro y gira un número diferente de grados.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+En el diseño final, no hay un aro central: todos se alejan del centro.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+Primero, usa el bloque `trasladar`{:class="blockscadtransforms"} para mover el primer aro a su posición.
 
-![screenshot](images/pendant-translate.png)
+![captura de pantalla](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
-
---- /task --- --- task ---
-
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
-
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
-
-![screenshot](images/pendant-3-hoops.png)
-
-Look at the code and make sure you understand how it works.
+Ahora el aro está un poco fuera del centro.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+Necesitas varias copias de este aro, giradas alrededor del centro. Lo primero, crea tres aros igualmente espaciados:
+
+Añade un bucle `contar`{:class="blockscadloops"} para crear tres aros. Para espaciar los aros, añade un bloque `rotar` {:class="blockscadtransforms"} entre el bucle `contar` y el bloque `trasladar`. `Contar` establece el valor de la variable `i` desde 1 a 3. `Rotar` gira cada aro `120` grados, de esta forma los tres aros están distribuidos por igual alrededor de los 360 grados de un círculo (360/3 = 120).
+
+![captura de pantalla](images/pendant-3-hoops.png)
+
+Mira el código y asegúrate de entender cómo funciona.
+
+--- /task --- --- task ---
+
+El diseño acabado tiene seis aros en lugar de tres. Cambia tu código para que crear seis aros igualmente espaciados.
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+Cambia el bucle `contar`{:class="blockscadloops"} para que funcione seis veces en lugar de tres. Los seis aros tendrán que estar distribuidos por igual a lo largo de los 360 grados.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+Vas a necesitar cambiar el bucle para que recorra los números desde el 1 al 6 y gire en múltiplos de 60 grados (360 / 6 = 60):
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+Tu código debe parecerse a esto:
 
-![screenshot](images/pendant-6-hoops.png)
+![captura de pantalla](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
