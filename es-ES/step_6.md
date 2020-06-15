@@ -1,20 +1,20 @@
-## Challenge: Change the pendant
+## Desafío: Cambia el colgante
 
 --- challenge ---
 
-The design is influenced by the 'Flower of Life' pattern. If you like, you could research the 'Flower of Life' and see if you can create a design based on the 'Seed of Life' pattern.
+El diseño está influenciado por el patrón 'Flor de la vida'. Si quieres, puedes investigar la 'Flor de la Vida' y ver si puedes crear un diseño basado en el patrón la 'Semilla de la Vida'.
 
-![screenshot](images/pendant-seed-of-life.png)
+![captura de pantalla](images/pendant-seed-of-life.png)
 
 --- /challenge ---
 
 --- challenge ---
 
-Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.
+Experimenta y cambia algunos valores en tu colgante. Por ejemplo, cambia el número de aros o la rotación.
 
-You could also try to use cuboids (cubes) instead of cylinders to create a pattern.
+También podrías intentar usar cuboides (cubos) en lugar de cilindros para crear un patrón.
 
-![screenshot](images/pendant-challenge.png)
+![captura de pantalla](images/pendant-challenge.png)
 
 --- /challenge ---
 
