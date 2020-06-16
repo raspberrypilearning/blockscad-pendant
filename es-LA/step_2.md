@@ -1,32 +1,32 @@
-## Create a hoop
+## Crea un aro
 
-The design uses six interlocking hoops in the centre, and a larger hoop around the outside. The pendant is 4cm wide, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+El diseño utiliza seis aros entrelazados en el centro y un aro más grande rodeando el exterior. El colgante tiene un diámetro de 40 mm, más el aro para colgar. Tiene un grosor de 2 mm, por lo que se imprimirá en 3D con bastante rapidez.
 
-First, make a single inner hoop.
+En primer lugar, haremos un aro interior.
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Abre el editor BlocksCAD en un navegador web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
-
---- /task --- --- task ---
-
-Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
-
-![screenshot](images/pendant-cylinder.png)
-
-`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
-
-Click on the **Render** button after each change to your code to see the results.
+Puedes arrastrar y soltar bloques para escribir código que cree objetos en 3D.
 
 --- /task --- --- task ---
 
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+Crea un `cilindro` con un radio de `12` y una altura de `2` (las unidades aquí son milímetros).
 
-![screenshot](images/pendant-hoop.png)
+![captura de pantalla](images/pendant-cylinder.png)
 
-If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.
+Los `cilindros` se centran automáticamente a lo largo de los ejes X e Y. Selecciona `no centrado` para que el colgante se asiente en la superficie. (Esto significa que el valor del eje Z es mayor que 0).
+
+Haz clic en el botón **Hacer** después de cada cambio en tu código para ver los resultados.
+
+--- /task --- --- task ---
+
+Ahora, usa `diferencia`{:class="blockscadsetops"} para eliminar el `cilindro más pequeño` del centro. Esto crea un aro:
+
+![captura de pantalla](images/pendant-hoop.png)
+
+Si quieres, puede hacer clic en el cuadrado coloreado para cambiar el color utilizado en el visor. Esto no afecta al color de tu colgante, ya que dependerá del color del filamento que utilices para imprimir.
 
 --- /task ---
 	
