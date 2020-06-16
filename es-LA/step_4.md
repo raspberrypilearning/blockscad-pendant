@@ -1,41 +1,41 @@
-## Add a border
+## Añade un borde
 
-Next, add a border around the edge of the design.
+A continuación, añade un borde alrededor de la parte exterior del diseño.
 
-![screenshot](images/pendant-border-show.png)
+![captura de pantalla](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+Crea un aro centrado que toque los bordes del diseño. Puede hacer los cálculos para determinar cuál debe ser el radio del círculo, o simplemente puedes crear un círculo y cambiar el radio hasta que funcione. ¡Cualquiera de los dos enfoques está bien!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+Usa el bloque `unión`{:class="blockscadsetops"} para unir el borde con los otros aros:
 
-![screenshot](images/pendant-union.png)
+![captura de pantalla](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+Usa los bloques `cilindro` y `diferencia` para hacer el aro.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+Cada uno de los seis aros tiene un radio de 12 mm, por lo que el cilindro del borde que estás haciendo debe ser más grande que eso. Puedes intentar ajustar el radio a 24 mm.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+Para hacer un aro, el radio del segundo `cilindro` en el bloque `diferencia` debe ser 1 mm más pequeño que el radio del primer `cilindro`.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+Ajusta el tamaño de los `cilindros` hasta que el aro del borde toque los bordes exteriores de los seis aros interiores.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+El radio debe estar alrededor de `20`. (¡En la introducción, se decía que el colgante terminado tendría 40 mm de diámetro!)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![captura de pantalla](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+También podrías usar las matemáticas para calcular el diámetro.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+El diámetro de cada aro interior es de 24 mm. Si los aros se unen en el centro del colgante, entonces el aro del borde debería tener un radio de 24 mm. Pero los aros interiores se superponen, ya que se trasladan 5 mm a lo largo de los ejes X e Y.
+
+Esto elimina una sección del radio. Esta sección está en el arco, a 5 mm del origen, por lo que sabemos que necesitamos eliminar 5 de los 24 mm. Esto significa que el radio interno del aro del borde debe ser de 19 mm.
+
+Las matemáticas son realmente útiles cuando necesitas ser preciso. Pero está bien cambiar las cosas hasta que obtengas el resultado que necesitas.
 
 --- /hint --- --- /hints --- --- /task ---
