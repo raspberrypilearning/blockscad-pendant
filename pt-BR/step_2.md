@@ -1,32 +1,32 @@
-## Create a hoop
+## Crie uma argola
 
-The design uses six interlocking hoops in the centre, and a larger hoop around the outside. The pendant is 4cm wide, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+O design usa seis argolas entrelaçadas no centro e uma argola maior ao redor do lado de fora. O pingente tem 4cm de largura, mais a argola para pendurar. Tem 2 mm de espessura, por isso imprimirá em 3D rapidamente.
 
-First, make a single inner hoop.
+Primeiro, faça uma argola interna.
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Abra o editor BlocksCAD em um navegador da web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
-
---- /task --- --- task ---
-
-Create a `cylinder` with a radius of `12` and a height of `2` (the unit here is millimetres).
-
-![screenshot](images/pendant-cylinder.png)
-
-`Cylinders` are automatically centred along the X and Y axes. Select `not centered` so that the pendant sits on the surface. (This means that the Z axis value is larger than 0).
-
-Click on the **Render** button after each change to your code to see the results.
+Você pode arrastar e soltar blocos para escrever códigos para criar objetos 3D.
 
 --- /task --- --- task ---
 
-Now, use `difference`{:class="blockscadsetops"} to remove a smaller `cylinder` from the centre. This creates a hoop:
+Crie um `cylinder` com um raio de `12` e uma altura de `2` (a unidade aqui é milímetros).
 
-![screenshot](images/pendant-hoop.png)
+![captura de tela](images/pendant-cylinder.png)
 
-If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.
+`Cylinders` são automaticamente centralizados ao longo dos eixos X e Y. Selecione `not centered` para que o pingente fique posicionado na superfície. (Isso significa que o valor do eixo Z é maior que 0).
+
+Clique no botão **Render** após cada alteração no seu código para ver os resultados.
+
+--- /task --- --- task ---
+
+Agora, use `difference`{:class="blockscadsetops"} para remover um `cylinder` menor do centro. Isto cria uma argola:
+
+![captura de tela](images/pendant-hoop.png)
+
+Se preferir, você pode clicar no quadrado colorido para alterar a cor usada no visualizador. Isso não afeta a cor do seu pingente, já que dependerá da cor do filamento que você usar.
 
 --- /task ---
 	
