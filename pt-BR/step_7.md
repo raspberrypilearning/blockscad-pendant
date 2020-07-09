@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## Imprima em 3D e monte o seu pingente
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+BlocksCAD pode exportar um arquivo `.STL` para impressão 3D.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Renderize seu modelo e então clique em **Generate STL**. Lembre-se de onde você salvou o arquivo STL.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+Imprima em 3D seu pingente usando um filamento da cor de sua escolha.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+Com muito cuidado remova a impressão 3D da área de impressão. O pingente é fino, por isso é bastante delicado.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+Talvez você precise remover pequenas linhas de filamento (especialmente da argola de pendurar) para arrumar a impressão.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+Coloque o pingente em uma corrente ou cordão. Se quiser usar um cordão ou colar mais grosso, então poderá ajustar o design para ter uma argola de pendurar maior.
 
-![screenshot](images/pendant-printed.png)
+![captura de tela](images/pendant-printed.png)
 
 --- /task ---
