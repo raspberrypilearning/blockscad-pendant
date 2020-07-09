@@ -1,22 +1,22 @@
-## Add a hanging hoop
+## Adicione uma argola para pendurar
 
-Now, add a small hanging hoop through which you can thread a cord to make a necklace.
+Agora, adicione uma pequena argola para pendurar na qual você pode enfiar um cordão para fazer um colar.
 
-Tip: This code adds a small hoop that can be used with elastic necklace thread. If you have a bigger cord or chain, you can adapt the code to create a bigger hanging hoop.
+Dica: Este código adiciona uma pequena argola que pode ser usada com fio elástico como colar. Se você tiver um cordão ou corrente maior, pode adaptar o código para criar uma argola maior.
 
 --- task ---
 
-Add a small hanging hoop that you can put a thread through.
+Adicione uma pequena argola para pendurar na qual você pode passar um fio.
 
-Click the `[+]` on the `union` block to add another section.
+Clique em `+` no bloco `union` para adicionar outra seção.
 
-![screenshot](images/pendant-hang.png)
+![captura de tela](images/pendant-hang.png)
 
-At the moment, the position of the hanging hoop isn't very visually pleasing.
+No momento, a posição da argola para pendurar não é muito agradável visualmente.
 
 --- /task --- --- task ---
 
-Add a `rotate`{:class="blockscadtransforms"} block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.
+Adicione um bloco `rotate`{:class="blockscadtransforms"} para mover as argolas de dentro para que a argola de pendurar fique centralizada sobre um dos intervalos entre elas.
 
 ![screenshot](images/pendant-hang-rotate.png)
 
