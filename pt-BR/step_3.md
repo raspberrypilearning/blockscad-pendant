@@ -1,44 +1,44 @@
-## Add more hoops
+## Adicione mais argolas
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+O modelo usa seis argolas entrelaçadas, e cada argola se move a partir do centro e gira um número diferente de graus.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+Na versão final, não há uma argola central: todas as argolas se distanciaram do centro.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+Primeiro, `translate`{:class="blockscadtransforms"} (mova) a primeira argola em posição.
 
-![screenshot](images/pendant-translate.png)
+![captura de tela](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
-
---- /task --- --- task ---
-
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
-
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
-
-![screenshot](images/pendant-3-hoops.png)
-
-Look at the code and make sure you understand how it works.
+Agora a argola está um pouco fora do centro.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+Você precisa de várias cópias desta argola, giradas ao redor do centro. Primeiro, crie três argolas igualmente espaçadas:
+
+Adicione um laço `count`{:class="blockscadloops"} para criar três argolas. Para espaçar as argolas, adicione um bloco `rotate`{:class="blockscadtransforms"} entre o laço `count` e o bloco `translate`. `Count` define a variável `i` de 1 a 3. `Rotate` move cada argola `120 × i` graus, então as três argolas são distribuídas igualmente em torno dos 360 graus de um círculo (360/3 = 120).
+
+![capturas de tela](images/pendant-3-hoops.png)
+
+Veja o código e certifique-se de entender como ele funciona.
+
+--- /task --- --- task ---
+
+A versão final tem seis argolas ao invés de três. Altere seu código para que crie seis argolas igualmente espaçadas.
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+Mude o laço `count`{:class="blockscadloops"} para que seja executado seis vezes ao invés de três. As seis argolas precisarão ser espaçadas igualmente em torno dos 360 graus.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+Você precisa alterar o laço para executar de 1 a 6 e mover-se em múltiplos de 60 graus (360 / 6 = 60):
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+Seu código deve ficar assim:
 
-![screenshot](images/pendant-6-hoops.png)
+![captura de tela](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
