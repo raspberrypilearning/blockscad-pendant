@@ -1,24 +1,24 @@
-## Add a border
+## Adicione uma borda
 
-Next, add a border around the edge of the design.
+Em seguida, adicione uma borda ao redor da parte exterior do modelo.
 
-![screenshot](images/pendant-border-show.png)
+![captura de tela](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+Crie uma argola centralizada que toque as bordas do modelo. Você pode fazer os cálculos para descobrir qual deve ser o raio do círculo, ou criar um círculo e alterar o raio até que funcione. Ambas as abordagem são boas!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+Use o bloco `union`{:class="blockscadsetops"} para juntar a borda com as outras argolas:
 
-![screenshot](images/pendant-union.png)
+![captura de tela](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+Use os blocos `cylinder` e `difference` para fazer a argola.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+Cada uma das seis argolas tem um raio de 12mm, portanto o cilindro da borda que você está fazendo precisa ser maior que isso. Você pode tentar definir o raio para 24 mm.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
+Para fazer uma argola, o raio do segundo `cylinder` no bloco `difference` precisa ser 1mm menor do que o raio do primeiro `cylinder`.
 
 --- /hint --- --- hint ---
 
@@ -26,16 +26,16 @@ Adjust the size of the `cylinders` until the border hoop just touches the outer 
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+O raio deve estar em torno de `20`. (Na introdução, dizia que o pingente final terá 40mm de diâmetro!)
 
-![screenshot](images/pendant-border.png)
+![captura de tela](images/pendant-border.png)
 
-You could also use maths to work out the diameter.
+Você também pode usar matemática para calcular o diâmetro.
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+O diâmetro de cada argola interna é de 24mm. Se as argolas se encontrassem no centro do pingente, a argola da borda precisaria ter um raio de 24mm. Mas as argolas de dentro se sobrepõem, porque são movidas 5mm ao longo dos eixos X e Y.
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+Isso remove uma seção do raio. Esta seção está no arco, a 5mm da origem, então sabemos que precisamos remover 5mm de 24mm. Isso significa que o raio interno da argola da borda deve ser de 19mm.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+A matemática é realmente útil quando você necessita ser preciso. Mas é bom apenas mudar as coisas até obter o resultado que você precisa.
 
 --- /hint --- --- /hints --- --- /task ---
