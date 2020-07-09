@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: Pingente 3D
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: Crie um pingente para imprimir em 3D e usar.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: Create a hoop
+    title: Crie uma argola
   - 
-    title: Add more hoops
+    title: Adicione mais argolas
   - 
-    title: Add a border
+    title: Adicione uma borda
   - 
-    title: Add a hanging hoop
+    title: Adicione uma argola para pendurar
   - 
-    title: "Challenge: Change the pendant"
+    title: "Desafio: Mude o pingente"
   - 
-    title: 3D print and assemble your pendant
+    title: Imprima em 3D e monte o seu pingente
