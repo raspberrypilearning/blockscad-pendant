@@ -18,7 +18,7 @@ No momento, a posição da argola para pendurar não é muito agradável visualm
 
 Adicione um bloco `rotate`{:class="blockscadtransforms"} para mover as argolas de dentro para que a argola de pendurar fique centralizada sobre um dos intervalos entre elas.
 
-![screenshot](images/pendant-hang-rotate.png)
+![captura de tela](images/pendant-hang-rotate.png)
 
 --- /task ---	
 
