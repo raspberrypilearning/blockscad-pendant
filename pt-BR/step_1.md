@@ -2,7 +2,7 @@
 
 Neste projeto, você usará o BlocksCAD para criar um pingente 3D. O pingente usa um desenho geométrico baseado na 'Flor da Vida', um desenho que é frequentemente encontrado na arte histórica.
 
-BlocksCAD é um editor de modelos 3D que você pode usar em um navegador da web em um computador ou tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD é um editor de modelos 3D que você pode usar em um navegador da web em um computador ou tablet. Arraste e solte blocos de código para criar modelos 3D que podem ser exportados para impressão 3D.
 
 Se você tiver acesso a uma impressora 3D, então poderá imprimir o pingente. O pingente é pequeno e usa apenas um pouco de filamento, e é rápido para imprimir em 3D.
 
@@ -10,7 +10,7 @@ Se você tiver acesso a uma impressora 3D, então poderá imprimir o pingente. O
 
 O pingente finalizado fica deste jeito:
 
-![screenshot](images/pendant-finished.png)
+![captura de tela](images/pendant-finished.png)
 
 O pingente tem uma argola em cima para que você possa colocá-lo em um colar ou cordão.
 
@@ -30,7 +30,7 @@ title: O que você vai precisar
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ Este projeto pode ser feito em um navegador da web usando o BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
