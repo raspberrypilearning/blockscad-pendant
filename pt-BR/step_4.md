@@ -22,7 +22,7 @@ Para fazer uma argola, o raio do segundo `cylinder` no bloco `difference` precis
 
 --- /hint --- --- hint ---
 
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+Ajuste o tamanho dos `cylinders` até que a argola da borda apenas toque as partes externas das seis argolas de dentro.
 
 --- /hint --- --- hint ---
 
