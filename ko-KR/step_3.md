@@ -1,44 +1,44 @@
-## Add more hoops
+## 더 많은 고리 추가하기
 
-The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.
+이 디자인은 6개의 교차하는 고리를 사용하고 각 고리는 중앙에서 바깥으로 이동한 다음 서로 다른 각도로 회전합니다.
 
 --- task ---
 
-In the final design, there is no central hoop: the hoops are all moved out from the centre.
+최종 디자인에는 중앙 후프가 없습니다. 후프는 모두 중앙에서 밖으로 이동합니다.
 
-First, `translate`{:class="blockscadtransforms"} (move) the first hoop into position.
+먼저 첫 번째 고리를 위치에 맟게 `translate`{:class="blockscadtransforms"}(이동)해주세요.
 
-![screenshot](images/pendant-translate.png)
+![스크린샷](images/pendant-translate.png)
 
-Now the hoop is a little off-centre.
-
---- /task --- --- task ---
-
-You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops:
-
-Add a `count`{:class="blockscadloops"} loop to create three hoops. To space the hoops, add a `rotate`{:class="blockscadtransforms"} block between the `count` loop and the `translate` block. `Count` sets the `i` variable from 1 to 3. `Rotate` moves each hoop by `120 × i` degrees, so the the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120).
-
-![screenshot](images/pendant-3-hoops.png)
-
-Look at the code and make sure you understand how it works.
+이제 고리가 중앙에서 약간 벗어났습니다.
 
 --- /task --- --- task ---
 
-The finished design has six hoops rather than three. Change your code so that it creates six equally spaced hoops.
+중앙을 중심으로 회전된 이 고리의 복사본이 여러 개 필요합니다. 먼저 균등한 간격으로 3 개의 고리를 만듭니다:
+
+`count`{:class="blockscadloops"} 반복을 추가하여 세 개의 고리를 만드세요. 고리의 간격을 지정하려면 `count` 루프와 `translate` 블록 사이에 `rotate`{:class="blockscadtransforms"} 블록을 추가하세요. `Count`는 `i` 변수를 1에서 3으로 설정합니다. `Rotate`는 각 고리를 `120 × i`도만큼 회전시키기 때문에, 세 개의 고리는 원의 360도를 따라 균등한 간격으로 배치됩니다(360 / 3 = 120).
+
+![스크린샷](images/pendant-3-hoops.png)
+
+코드를 보고 작동 방식을 이해했는지 확인하세요.
+
+--- /task --- --- task ---
+
+완성 된 디자인에는 3개가 아닌 6개의 고리가 있습니다. 6개의 동일한 간격의 고리를 만들도록 코드를 변경합니다.
 
 --- hints --- --- hint ---
 
-Change the `count`{:class="blockscadloops"} loop so that it runs six times instead of three. The six hoops will need to be equally spaced around 360 degrees.
+`count`{:class="blockscadloops"} 반복을 변경하여 세 번 대신 여섯 번 실행되도록 하세요. 6 개의 후프는 360도를 따라 균등하게 배치되어야 합니다.
 
 --- /hint --- --- hint ---
 
-You need to change the loop to run from 1 to 6 and move in multiples of 60 degrees (360 / 6 = 60):
+반복이 1에서 6까지 되도록 하고 60 도의 배수(360/6 = 60)로 이동하도록 변경해야 합니다.
 
 --- /hint --- --- hint ---
 
-Your code should look like this:
+다음과 같은 코드가 될 것입니다:
 
-![screenshot](images/pendant-6-hoops.png)
+![스크린샷](images/pendant-6-hoops.png)
 
 --- /hint --- --- /hints --- --- /task ---	
 	
