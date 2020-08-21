@@ -1,7 +1,7 @@
 ---
-title: 3D pendant
+title: 3D 펜던트
 hero_image: images/banner.png
-description: Design a pendant to 3D print and wear.
+description: 3D 프린트 및 착용을 위한 펜던트를 디자인하세요.
 version: 4
 duration: 2 #possible values: 1, 2 or 3
 theme: green
@@ -11,16 +11,16 @@ last_tested: "2018-03-21"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: 소개
   - 
-    title: Create a hoop
+    title: 고리 만들기
   - 
-    title: Add more hoops
+    title: 더 많은 고리 추가하기
   - 
-    title: Add a border
+    title: 테두리 추가하기
   - 
-    title: Add a hanging hoop
+    title: 매다는 고리 만들기
   - 
-    title: "Challenge: Change the pendant"
+    title: "도전과제: 펜던트 바꾸기"
   - 
-    title: 3D print and assemble your pendant
+    title: 3D 프린팅 및 펜던트 조립
