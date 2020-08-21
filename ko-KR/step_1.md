@@ -1,56 +1,56 @@
-## Introduction
+## 소개
 
-In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric design based on the 'Flower of Life', a design which is often found in historical art.
+이 프로젝트에서는 BlocksCAD를 사용하여 3D 펜던트를 디자인합니다. 펜던트에는 역사 예술에서 흔히 볼 수 있는 디자인인 '생명의 꽃'을 기반으로 한 기하학적 디자인을 사용할 것입니다.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD는 3D 모델 편집기로 데스크탑 컴퓨터나 태블릿의 웹브라우저에서 사용될 수 있습니다. 코드 블록을 드래그 앤드 드롭하여 3D 프린터로 내보낼 수(export) 있도록 3D 모델을 설계합니다.
 
-If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament, and it is quick to 3D print.
+3D 프린터가 있다면 펜던트를 직접 출력할 수 있습니다. 펜던트는 작고 필라멘트를 조금만 사용하며 빠르게 3D 프린팅 할 수 있습니다.
 
-### What you will make
+### 만들 작품
 
-The finished pendant looks like this:
+완성한 펜던트는 다음과 같습니다:
 
-![screenshot](images/pendant-finished.png)
+![스크린샷](images/pendant-finished.png)
 
-The pendant has a hoop on top so that you can put it on a necklace or cord.
+펜던트 상단에 작은 구멍이 있어 목걸이나 줄에 걸 수 있습니다.
 
-The pendant has a diameter of 40mm, plus the hoop for hanging. It is 2mm thick, so it will 3D print quite quickly.
+펜던트의 지름은 40mm이며 매달기 위한 구멍이 있습니다. 2mm 두께이므로 3D 프린팅이 매우 빠릅니다.
 
-After this project, you’ll also be able to code your own design and create a custom pendant.
+이 프로젝트가 끝나면 자신만의 디자인을 코딩하고 맞춤형 펜던트를 만들 수 있게 될 것입니다.
 
 --- collapse ---
 ---
-title: What you will need
+title: 준비물
 ---
 
-### Hardware
+### 하드웨어
 
-+ A 3D printer, and filament in a colour of your choice
-+ A necklace or cord to hang the pendant on
++ 3D 프린터 및 원하는 색상의 필라멘트
++ 펜던트를 걸 수 있는 목걸이 또는 줄
 
-### Software
+### 소프트웨어
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}
++ 이 프로젝트는 BlocksCAD [blockscad3d.com/editor](https://www.blockscad3d.com/editor){:target="_blank"}를 사용하여 웹브라우저에서 모두 완료할 수 있습니다.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 배울 내용
 ---
 
-+ How to use `count` loops to create geometric patterns
-+ How to use `difference` blocks to create hoops from cylinders
++ `count` 반복을 사용하여 기하학적 패턴을 만드는 방법
++ `difference` 블록을 사용하여 작은 고리를 만드는 방법
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 교육자를 위한 추가 정보
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
+이 프로젝트를 인쇄하기 위해서는 [프린트용 버전](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}을 사용해 주십시오.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+완성된 프로젝트 코드 다운로드: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
