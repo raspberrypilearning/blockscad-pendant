@@ -1,27 +1,27 @@
-## 3D print and assemble your pendant
+## 3D 프린팅 및 펜던트 조립
 
-BlocksCAD 3D can export an `.STL` file for 3D printing.
+3D 출력을 위해 BlocksCAD에서 `.STL` 파일로 export(내보내기)해야 합니다.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+모델을 렌더링한 다음 **Generate STL**(STL 생성하기)을 클릭하세요. STL 파일을 저장한 위치를 기억해 놓으세요.
 
 --- /task --- --- task ---
 
-3D print your pendant using a filament of the colour of your choice.
+선택한 색상의 필라멘트를 사용하여 펜던트를 3D 인쇄하세요.
 
 --- /task --- --- task ---
 
-Very carefully remove the 3D print from the print bed. The pendant is thin, so it's quite delicate.
+출력물 베드에서 3D 출력물을 조심스레 빼냅니다. 펜던트가 얇아서 매우 섬세합니다.
 
 --- /task --- --- task ---
 
-You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.
+인쇄물을 정리하기 위해 작은 필라멘트 가닥을 (특히 매달린 후프에서) 제거해야 할 수 있습니다.
 
 --- /task --- --- task ---
 
-Thread the pendant on a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.
+펜던트를 체인이나 줄에 끼웁니다. 더 두꺼운 줄이나 목걸이를 사용하려면 매다는 고리를 더 크게하여 디자인을 바꿀 수 있습니다.
 
-![screenshot](images/pendant-printed.png)
+![스크린샷](images/pendant-printed.png)
 
 --- /task ---
