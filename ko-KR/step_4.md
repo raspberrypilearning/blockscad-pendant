@@ -1,41 +1,41 @@
-## Add a border
+## 테두리 추가하기
 
-Next, add a border around the edge of the design.
+다음으로 디자인의 가장자리를 따라 테두리를 추가합니다.
 
-![screenshot](images/pendant-border-show.png)
+![스크린샷](images/pendant-border-show.png)
 
 --- task ---
 
-Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!
+디자인의 가장자리에 닿는 중앙 고리를 만듭니다. 원의 반지름이 무엇인지 계산하기 위해 수학 개념을 사용하거나 일단 원을 만들고 적당해질 때까지 반지름을 키울 수 있습니다.  어느 쪽이든 괜찮습니다!
 
-Use the `union`{:class="blockscadsetops"} block to join the border to the other hoops:
+`union`{:class="blockscadsetops"} 블록을 사용하여 다른 고리와 결합합니다:
 
-![screenshot](images/pendant-union.png)
+![스크린샷](images/pendant-union.png)
 
 --- hints --- --- hint ---
 
-Use the `cylinder` and `difference` blocks to make the hoop.
+`cylinder`와 `difference` 블록을 사용하여 고리를 만듭니다.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24mm.
+6개의 후프의 반지름은 각각 12mm이므로 만들고 있는 테두리는 그보다 커야 합니다. 반경을 24mm로 설정해보세요.
 
-To make a hoop, the radius of the second `cylinder` in the `difference` block needs to be 1mm smaller than the radius of the first `cylinder`.
-
---- /hint --- --- hint ---
-
-Adjust the size of the `cylinders` until the border hoop just touches the outer edges of the six inner hoops.
+고리를 만들기 위해서는 `difference` 블록의 두 번째 `cylinder`의 반지름이 첫번째 `cylinder`의 반지름에 비해 1mm 더 작아야 합니다.
 
 --- /hint --- --- hint ---
 
-The radius should be around `20`. (In the introduction, it said that the finished pendant will be 40mm in diameter!)
+안쪽 여섯 개의 고리의 경계에 겨우 닿도록 `cylinder`의 크기를 조정합니다.
 
-![screenshot](images/pendant-border.png)
+--- /hint --- --- hint ---
 
-You could also use maths to work out the diameter.
+반지름은 약 `20`이어야 합니다. (소개에서 완성된 펜던트는 직경 40mm가 될 것이라고 했었죠?)
 
-The diameter of each inner hoop is 24mm. If the hoops met at the centre of the pendant, then the border hoop would need to have a radius of 24mm. But the inner hoops overlap, because they are translated 5mm along the X and Y axes.
+![스크린샷](images/pendant-border.png)
 
-This removes a section from the radius. This section is on the arc, 5mm from the origin, so we know that we need to remove 5mm from 24mm. This means that the inner radius of the border hoop should be 19mm.
+수학을 사용하여 지름을 계산할 수도 있습니다.
 
-Maths is really useful when you need to be accurate. But it's fine to just change things until you get the result you need.
+각 내부 고리의 직경은 24mm입니다. 고리가 펜던트 중앙에서 만나는 경우 테두리 후프의 반경은 24mm여야합니다. 그러나 내부 후프는 X축 및 Y축을 따라 5mm 이동했기 때문에 겹치게 됩니다.
+
+이것은 반지름을 줄이는 효과가 있습니다. 원점에서 5mm만큼 움직였으므로, 24mm에서 5mm를 빼야 합니다. 이것은 테두리 고리의 안쪽 반지름이 19mm가 되어야 함을 의미합니다.
+
+수학은 정확해야 할 때 정말 유용합니다. 그러나 필요한 결과를 얻을 때까지 변경하는 것도 괜찮습니다.
 
 --- /hint --- --- /hints --- --- /task ---
