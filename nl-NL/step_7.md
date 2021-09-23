@@ -25,12 +25,12 @@ Rijg de hanger aan een ketting of koord. Als je een dikker koord of ketting wilt
 ![schermafbeelding](images/pendant-printed.png)
 
 --- /task ---
-
 ***
 
 Dit project werd vertaald door vrijwilligers:
 
 Robert-Jan Kempenaar
 Sanneke van der Meer
+Iny van Beuningen
 
 Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
