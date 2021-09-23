@@ -16,7 +16,7 @@ Gebruik het `union`{:class="blockscadsetops"} blok om de rand met de andere ring
 
 Gebruik de `cylinder` en `difference` blokken om de ring te maken.
 
-The six hoops each have a radius of 12mm, so the border cylinder that you are making needs to be bigger than that. Je kunt proberen de straal in te stellen op 24 mm.
+De zes ringen hebben elk een straal van 12 mm, dus de ring voor de rand die je maakt moet groter zijn dan dat. Je kunt proberen de straal in te stellen op 24 mm.
 
 Om een ring te maken, moet de straal van de tweede `cylinder` in het `difference` blok 1 mm kleiner zijn dan de straal van de eerste `cylinder`.
 
