@@ -3,17 +3,19 @@ title: Colgante 3D
 hero_image: images/banner.png
 description: Diseña un colgante para imprimir en 3D y llevarlo puesto.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
-  - title: Introducción
-  - title: Crea un aro
-  - title: Añade más aros
-  - title: Añade un borde
-  - title: Añade un aro para colgar
-  - title: "Desafío: Cambia el colgante"
-  - title: Imprime en 3D y arma tu colgante
+- title: Introducción
+  completion: engaged
+- title: Crea un aro
+- title: Añade más aros
+- title: Añade un borde
+- title: Añade un aro para colgar
+- title: 'Desafío: Cambia el colgante'
+  completion: internal
+- title: Imprime en 3D y arma tu colgante

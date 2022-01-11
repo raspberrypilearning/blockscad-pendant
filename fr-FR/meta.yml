@@ -3,17 +3,19 @@ title: Pendentif 3D
 hero_image: images/banner.png
 description: Conçois un pendentif à imprimer en 3D et à porter.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
-  - title: Introduction
-  - title: Créer un cerceau
-  - title: Ajouter plus de cerceaux
-  - title: Ajouter une bordure
-  - title: Ajouter une attache
-  - title: "Défi: changer le pendentif"
-  - title: Impression 3D et montage de ton pendentif
+- title: Introduction
+  completion: engaged
+- title: Créer un cerceau
+- title: Ajouter plus de cerceaux
+- title: Ajouter une bordure
+- title: Ajouter une attache
+- title: 'Défi: changer le pendentif'
+  completion: internal
+- title: Impression 3D et montage de ton pendentif

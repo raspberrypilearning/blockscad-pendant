@@ -3,17 +3,19 @@ title: Pingente 3D
 hero_image: images/banner.png
 description: Crie um pingente para imprimir em 3D e usar.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
-  - title: Introdução
-  - title: Crie uma argola
-  - title: Adicione mais argolas
-  - title: Adicione uma borda
-  - title: Adicione uma argola para pendurar
-  - title: "Desafio: Mude o pingente"
-  - title: Imprima em 3D e monte o seu pingente
+- title: Introdução
+  completion: engaged
+- title: Crie uma argola
+- title: Adicione mais argolas
+- title: Adicione uma borda
+- title: Adicione uma argola para pendurar
+- title: 'Desafio: Mude o pingente'
+  completion: internal
+- title: Imprima em 3D e monte o seu pingente

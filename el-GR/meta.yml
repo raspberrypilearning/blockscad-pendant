@@ -3,17 +3,19 @@ title: 3D μενταγιόν
 hero_image: images/banner.png
 description: Σχεδίασε ένα μενταγιόν για 3D εκτυπωτή και φόρεσέ το.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
-  - title: Εισαγωγή
-  - title: Δημιούργησε έναν  στεφάνη
-  - title: Πρόσθεσε περισσότερα κρίκους
-  - title: Βάλε περίγραμμα
-  - title: Πρόσθεσε έναν στεφάνι για κρέμασμα
-  - title: "Πρόκληση: Άλλαξε το μενταγιόν"
-  - title: 3D εκτύπωση και συναρμολόγηση του μενταγιόν
+- title: Εισαγωγή
+  completion: engaged
+- title: Δημιούργησε έναν  στεφάνη
+- title: Πρόσθεσε περισσότερα κρίκους
+- title: Βάλε περίγραμμα
+- title: Πρόσθεσε έναν στεφάνι για κρέμασμα
+- title: 'Πρόκληση: Άλλαξε το μενταγιόν'
+  completion: internal
+- title: 3D εκτύπωση και συναρμολόγηση του μενταγιόν
