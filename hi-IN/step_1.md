@@ -51,6 +51,6 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/hi-IN/projects/blockscad-pendant/print){:target="_blank"} का उपयोग करें।
 
-तैयार किया हुआ प्रोजेक्ट कोड को [http://rpf.io/p/hi-IN/blockscad-pendant](http://rpf.io/p/hi-IN/blockscad-pendant) पर डाउनलोड करें।
+तैयार किया हुआ प्रोजेक्ट कोड को [https://rpf.io/p/hi-IN/blockscad-pendant](https://rpf.io/p/hi-IN/blockscad-pendant) पर डाउनलोड करें।
 
 --- /collapse ---

@@ -51,6 +51,6 @@ title: 교육자를 위한 추가 정보
 
 이 프로젝트를 인쇄하기 위해서는 [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/blockscad-pendant/print){:target="_blank"}을 사용해 주십시오.
 
-완성된 프로젝트 코드 다운로드: [http://rpf.io/p/ko-KR/blockscad-pendant](http://rpf.io/p/ko-KR/blockscad-pendant).
+완성된 프로젝트 코드 다운로드: [https://rpf.io/p/ko-KR/blockscad-pendant](https://rpf.io/p/ko-KR/blockscad-pendant).
 
 --- /collapse ---

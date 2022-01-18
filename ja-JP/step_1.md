@@ -51,6 +51,6 @@ title: 教育者向けの追加情報
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/ja-JP/projects/blockscad-pendant/print){:target="_blank"}を使用してください。
 
-完成したプロジェクトコードは [http://rpf.io/p/ja-JP/blockscad-pendant](http://rpf.io/p/ja-JP/blockscad-pendant)からダウンロードできます。
+完成したプロジェクトコードは [https://rpf.io/p/ja-JP/blockscad-pendant](https://rpf.io/p/ja-JP/blockscad-pendant)からダウンロードできます。
 
 --- /collapse ---
