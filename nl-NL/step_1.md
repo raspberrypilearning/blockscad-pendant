@@ -51,6 +51,6 @@ title: Aanvullende informatie voor docenten
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL NEW/projects/blockscad-pendant/print){:target="_blank"}.
 
-Download de voltooide projectcode op: [http://rpf.io/p/nl-NL NEW/blockscad-pendant](http://rpf.io/p/nl-NL NEW/blockscad-pendant).
+Download de voltooide projectcode op: [https://rpf.io/p/nl-NL NEW/blockscad-pendant](https://rpf.io/p/nl-NL NEW/blockscad-pendant).
 
 --- /collapse ---

@@ -3,17 +3,19 @@ title: 3Dペンダント
 hero_image: images/banner.png
 description: 3Dプリントして身に着けられるペンダントを設計 (せっけい) しよう
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
-  - title: はじめに
-  - title: 輪を作る
-  - title: もっと輪を作る
-  - title: 外わくを作る
-  - title: つり下げ用の輪を作る
-  - title: "チャレンジ: ペンダントトップをかえる"
-  - title: ペンダントトップを3Dプリントして組み立てる
+- title: はじめに
+  completion: engaged
+- title: 輪を作る
+- title: もっと輪を作る
+- title: 外わくを作る
+- title: つり下げ用の輪を作る
+- title: 'チャレンジ: ペンダントトップをかえる'
+  completion: internal
+- title: ペンダントトップを3Dプリントして組み立てる
