@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: परिचय
-  completion: engaged
 - title: एक घेरा बनाएँ
 - title: अधिक घेरा जोड़ें
+  completion:
+  - engaged
 - title: एक सीमा जोड़ें
 - title: एक लटका हुआ घेरा जोड़ें
 - title: 'चुनौती: झुमके को बदलें'
-  completion: internal
 - title: अपने झुमके को 3D प्रिंट करें और जोड़ें
+  completion:
+  - internal

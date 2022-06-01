@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Δημιούργησε έναν  στεφάνη
 - title: Πρόσθεσε περισσότερα κρίκους
+  completion:
+  - engaged
 - title: Βάλε περίγραμμα
 - title: Πρόσθεσε έναν στεφάνι για κρέμασμα
 - title: 'Πρόκληση: Άλλαξε το μενταγιόν'
-  completion: internal
 - title: 3D εκτύπωση και συναρμολόγηση του μενταγιόν
+  completion:
+  - internal
