@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: Introdução
-  completion: engaged
 - title: Crie uma argola
 - title: Adicione mais argolas
+  completion:
+  - engaged
 - title: Adicione uma borda
 - title: Adicione uma argola para pendurar
 - title: 'Desafio: Mude o pingente'
-  completion: internal
 - title: Imprima em 3D e monte o seu pingente
+  completion:
+  - internal

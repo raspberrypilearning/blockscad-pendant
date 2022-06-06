@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Maak een ring
 - title: Voeg meer ringen toe
+  completion:
+  - engaged
 - title: Voeg een rand toe
 - title: Voeg een bevestigingsring toe
 - title: 'Uitdaging: verander de hanger'
-  completion: internal
 - title: 3D print en monteer je hanger
+  completion:
+  - internal

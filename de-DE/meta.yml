@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Einen Reifen erstellen
 - title: Füge mehr Reifen hinzu
+  completion:
+  - engaged
 - title: Füge einen Rand hinzu
 - title: Füge einen Aufhänge-Reifen hinzu
 - title: 'Herausforderung: Ändere den Anhänger'
-  completion: internal
 - title: 3D-Drucke deinen Anhänger und baue ihn zusammen
+  completion:
+  - internal

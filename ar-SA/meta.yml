@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: المقدمة
-  completion: engaged
 - title: إنشئ طوق
 - title: أضف المزيد من الأطواق
+  completion:
+  - engaged
 - title: أضف حدًا
 - title: أضف طوقا معلق
 - title: 'التحدي: قم بتغيير القلادة'
-  completion: internal
 - title: طباعة ثلاثية الأبعاد وتجميع القلادة الخاصة بك
+  completion:
+  - internal

@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: Introducción
-  completion: engaged
 - title: Crea un aro
 - title: Añade más aros
+  completion:
+  - engaged
 - title: Agrega un borde
 - title: Agrega un aro para colgar
 - title: 'Desafío: Cambia el colgante'
-  completion: internal
 - title: Imprime en 3D y monta tu colgante
+  completion:
+  - internal

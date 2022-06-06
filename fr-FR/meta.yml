@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: Introduction
-  completion: engaged
 - title: Créer un cerceau
 - title: Ajouter plus de cerceaux
+  completion:
+  - engaged
 - title: Ajouter une bordure
 - title: Ajouter une attache
 - title: 'Défi: changer le pendentif'
-  completion: internal
 - title: Impression 3D et montage de ton pendentif
+  completion:
+  - internal

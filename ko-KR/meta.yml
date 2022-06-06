@@ -8,14 +8,16 @@ theme: green
 listed: true
 copyedit: true
 last_tested: '2018-03-21'
-site_areas:
+site_areas: 
 steps:
 - title: 소개
-  completion: engaged
 - title: 고리 만들기
 - title: 더 많은 고리 추가하기
+  completion:
+  - engaged
 - title: 테두리 추가하기
 - title: 매다는 고리 만들기
 - title: '도전과제: 펜던트 바꾸기'
-  completion: internal
 - title: 3D 프린팅 및 펜던트 조립
+  completion:
+  - internal
