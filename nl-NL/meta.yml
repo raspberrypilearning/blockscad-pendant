@@ -3,11 +3,11 @@ title: 3D-hanger
 hero_image: images/banner.png
 description: Ontwerp een hanger om 3D te printen en te dragen.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
   - 
@@ -16,11 +16,15 @@ steps:
     title: Maak een ring
   - 
     title: Voeg meer ringen toe
+    completion:
+      - engaged
   - 
     title: Voeg een rand toe
   - 
     title: Voeg een bevestigingsring toe
   - 
-    title: "Uitdaging: verander de hanger"
+    title: 'Uitdaging: verander de hanger'
   - 
     title: 3D print en monteer je hanger
+    completion:
+      - internal
