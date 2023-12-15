@@ -3,11 +3,11 @@ title: 3D झुमका
 hero_image: images/banner.png
 description: एक 3D झुमके का डिजाइन बनाइए और उसे प्रिंट करके पहने।
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
   - 
@@ -16,11 +16,15 @@ steps:
     title: एक घेरा बनाएँ
   - 
     title: अधिक घेरा जोड़ें
+    completion:
+      - engaged
   - 
     title: एक सीमा जोड़ें
   - 
     title: एक लटका हुआ घेरा जोड़ें
   - 
-    title: "चुनौती: झुमके को बदलें"
+    title: 'चुनौती: झुमके को बदलें'
   - 
     title: अपने झुमके को 3D प्रिंट करें और जोड़ें
+    completion:
+      - internal
