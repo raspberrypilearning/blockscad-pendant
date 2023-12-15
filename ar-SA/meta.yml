@@ -3,11 +3,11 @@ title: قلادة ثلاثية الابعاد
 hero_image: images/banner.png
 description: تصميم قلادة ثلاثية الأبعاد وأرتدائها.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
   - 
@@ -16,11 +16,15 @@ steps:
     title: إنشئ طوق
   - 
     title: أضف المزيد من الأطواق
+    completion:
+      - engaged
   - 
     title: أضف حدًا
   - 
     title: أضف طوقا معلق
   - 
-    title: "التحدي: قم بتغيير القلادة"
+    title: 'التحدي: قم بتغيير القلادة'
   - 
     title: طباعة ثلاثية الأبعاد وتجميع القلادة الخاصة بك
+    completion:
+      - internal
