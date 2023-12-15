@@ -3,11 +3,11 @@ title: 3D-Anhänger
 hero_image: images/banner.png
 description: Gestalte einen Anhänger zum 3D-Drucken und tragen.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
   - 
@@ -16,11 +16,15 @@ steps:
     title: Einen Reifen erstellen
   - 
     title: Füge mehr Reifen hinzu
+    completion:
+      - engaged
   - 
     title: Füge einen Rand hinzu
   - 
     title: Füge einen Aufhänge-Reifen hinzu
   - 
-    title: "Herausforderung: Ändere den Anhänger"
+    title: 'Herausforderung: Ändere den Anhänger'
   - 
     title: 3D-Drucke deinen Anhänger und baue ihn zusammen
+    completion:
+      - internal
