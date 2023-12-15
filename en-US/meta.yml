@@ -3,11 +3,11 @@ title: 3D pendant
 hero_image: images/banner.png
 description: Design a pendant to 3D print and wear.
 version: 4
-duration: 2 #possible values: 1, 2 or 3
+duration: 2
 theme: green
 listed: true
 copyedit: true
-last_tested: "2018-03-21"
+last_tested: '2018-03-21'
 site_areas:
 steps:
   - 
@@ -16,11 +16,15 @@ steps:
     title: Create a hoop
   - 
     title: Add more hoops
+    completion:
+      - engaged
   - 
     title: Add a border
   - 
     title: Add a hanging hoop
   - 
-    title: "Challenge: Change the pendant"
+    title: 'Challenge: Change the pendant'
   - 
     title: 3D print and assemble your pendant
+    completion:
+      - internal
