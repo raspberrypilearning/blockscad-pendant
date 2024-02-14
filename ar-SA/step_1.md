@@ -51,6 +51,6 @@ title: معلومات إضافية للمعلمين
 
 إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الصديق للبيئة عند الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
 
-قم بتنزيل الكود البرمجي للمشروع النهائي من [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+Download the finished project code at: [https://rpf.io/p/en/blockscad-pendant](https://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
