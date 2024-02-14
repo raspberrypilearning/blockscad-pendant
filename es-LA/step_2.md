@@ -1,6 +1,6 @@
 ## Crea un aro
 
-El diseño utiliza seis aros entrelazados en el centro y un aro más grande rodeando el exterior. El colgante tiene un diámetro de 40 mm, más el aro para colgar. Tiene un grosor de 2 mm, por lo que se imprimirá en 3D con bastante rapidez.
+El diseño utiliza seis aros entrelazados en el centro y un aro más grande rodeando el exterior. El colgante tiene un diámetro de 40 mm, más el aro para colgar. Es de 2mm de espesor, por lo que se imprimirá en 3D bastante rápidamente.
 
 En primer lugar, haremos un aro interior.
 
