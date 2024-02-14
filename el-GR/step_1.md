@@ -51,6 +51,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print)"{:target="_blank"}.
 
-Κατέβασε τον τελικό κώδικα του έργου στο: [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+Download the finished project code at: [https://rpf.io/p/en/blockscad-pendant](https://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
