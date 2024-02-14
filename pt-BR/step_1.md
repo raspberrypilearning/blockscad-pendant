@@ -51,6 +51,6 @@ title: Informações adicionais para educadores
 
 Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/blockscad-pendant/print){:target="_blank"}.
 
-Faça o download do código do projeto finalizado em [http://rpf.io/p/en/blockscad-pendant](http://rpf.io/p/en/blockscad-pendant).
+Download the finished project code at: [https://rpf.io/p/en/blockscad-pendant](https://rpf.io/p/en/blockscad-pendant).
 
 --- /collapse ---
