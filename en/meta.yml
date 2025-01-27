@@ -12,12 +12,16 @@ site_areas:
 steps:
 - title: Introduction
 - title: Create a hoop
+  completion:
+  - engaged
 - title: Add more hoops
   completion:
   - engaged
 - title: Add a border
 - title: Add a hanging hoop
 - title: 'Challenge: Change the pendant'
-- title: 3D print and assemble your pendant
   completion:
   - internal
+- title: 3D print and assemble your pendant
+  completion:
+  - external
